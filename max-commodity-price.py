@@ -16,7 +16,8 @@ r.upsertCommodityPrice(4, 28);    // timestamps can come out of order and there 
 r.getMaxCommodityPrice();
 
 Restriction:
-timestamp and price are positive integers.
++ timestamp and price are positive integers.
++ when prices are tied, data entry with bigger timestamp should return for the Max method
 
 
 Extra:
