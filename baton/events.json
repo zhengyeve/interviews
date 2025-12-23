@@ -1,0 +1,6995 @@
+[
+  {
+    "id": 57185,
+    "trailer_id": 15114,
+    "facility_id": 319,
+    "entrance_time": "2022-03-26 19:04:54",
+    "exit_time": null
+  },
+  {
+    "id": 57184,
+    "trailer_id": 15205,
+    "facility_id": 319,
+    "entrance_time": "2022-03-26 13:54:26",
+    "exit_time": null
+  },
+  {
+    "id": 57165,
+    "trailer_id": 15172,
+    "facility_id": 846,
+    "entrance_time": "2022-03-26 11:28:01",
+    "exit_time": null
+  },
+  {
+    "id": 57164,
+    "trailer_id": 15171,
+    "facility_id": 1,
+    "entrance_time": "2022-03-25 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57163,
+    "trailer_id": 15170,
+    "facility_id": 1,
+    "entrance_time": "2022-03-25 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57162,
+    "trailer_id": 15169,
+    "facility_id": 319,
+    "entrance_time": "2022-03-26 06:54:24",
+    "exit_time": null
+  },
+  {
+    "id": 57160,
+    "trailer_id": 15155,
+    "facility_id": 846,
+    "entrance_time": "2022-03-25 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57159,
+    "trailer_id": 15079,
+    "facility_id": 846,
+    "entrance_time": "2022-03-25 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57158,
+    "trailer_id": 15114,
+    "facility_id": 319,
+    "entrance_time": "2022-03-26 00:04:34",
+    "exit_time": "2022-03-26 19:04:53"
+  },
+  {
+    "id": 57157,
+    "trailer_id": 15131,
+    "facility_id": 319,
+    "entrance_time": "2022-03-25 19:30:44",
+    "exit_time": "2022-03-26 14:04:52"
+  },
+  {
+    "id": 57156,
+    "trailer_id": 15160,
+    "facility_id": 319,
+    "entrance_time": "2022-03-25 21:35:58",
+    "exit_time": "2022-03-26 07:04:25"
+  },
+  {
+    "id": 57155,
+    "trailer_id": 15137,
+    "facility_id": 319,
+    "entrance_time": "2022-03-25 20:30:50",
+    "exit_time": "2022-03-26 19:04:53"
+  },
+  {
+    "id": 57154,
+    "trailer_id": 15114,
+    "facility_id": 319,
+    "entrance_time": "2022-03-25 19:07:14",
+    "exit_time": "2022-03-26 00:04:33"
+  },
+  {
+    "id": 57153,
+    "trailer_id": 15140,
+    "facility_id": 846,
+    "entrance_time": "2022-03-25 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57152,
+    "trailer_id": 15157,
+    "facility_id": 319,
+    "entrance_time": "2022-03-25 17:01:38",
+    "exit_time": null
+  },
+  {
+    "id": 57151,
+    "trailer_id": 13699,
+    "facility_id": 319,
+    "entrance_time": "2022-03-25 16:40:26",
+    "exit_time": null
+  },
+  {
+    "id": 57150,
+    "trailer_id": 15166,
+    "facility_id": 319,
+    "entrance_time": "2022-03-25 16:16:00",
+    "exit_time": null
+  },
+  {
+    "id": 57149,
+    "trailer_id": 2860,
+    "facility_id": 319,
+    "entrance_time": "2022-03-25 14:56:57",
+    "exit_time": null
+  },
+  {
+    "id": 57148,
+    "trailer_id": 15162,
+    "facility_id": 1,
+    "entrance_time": "2022-03-25 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57147,
+    "trailer_id": 14929,
+    "facility_id": 846,
+    "entrance_time": "2022-03-24 07:00:00",
+    "exit_time": "2022-03-25 19:08:04"
+  },
+  {
+    "id": 57146,
+    "trailer_id": 15156,
+    "facility_id": 846,
+    "entrance_time": "2022-03-24 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57145,
+    "trailer_id": 15161,
+    "facility_id": 846,
+    "entrance_time": "2022-03-24 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57144,
+    "trailer_id": 15136,
+    "facility_id": 846,
+    "entrance_time": "2022-03-24 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57143,
+    "trailer_id": 15137,
+    "facility_id": 319,
+    "entrance_time": "2022-03-24 23:44:53",
+    "exit_time": "2022-03-25 16:04:23"
+  },
+  {
+    "id": 57142,
+    "trailer_id": 13699,
+    "facility_id": 319,
+    "entrance_time": "2022-03-24 23:00:30",
+    "exit_time": "2022-03-25 15:03:57"
+  },
+  {
+    "id": 57141,
+    "trailer_id": 2860,
+    "facility_id": 319,
+    "entrance_time": "2022-03-24 22:51:58",
+    "exit_time": "2022-03-25 13:08:32"
+  },
+  {
+    "id": 57140,
+    "trailer_id": 15136,
+    "facility_id": 846,
+    "entrance_time": "2022-03-24 21:20:50",
+    "exit_time": null
+  },
+  {
+    "id": 57139,
+    "trailer_id": 15160,
+    "facility_id": 319,
+    "entrance_time": "2022-03-24 19:59:10",
+    "exit_time": "2022-03-25 20:05:03"
+  },
+  {
+    "id": 57138,
+    "trailer_id": 15145,
+    "facility_id": 1,
+    "entrance_time": "2022-03-24 15:16:30",
+    "exit_time": "2022-03-26 11:05:52"
+  },
+  {
+    "id": 57137,
+    "trailer_id": 15159,
+    "facility_id": 1,
+    "entrance_time": "2022-03-24 07:00:00",
+    "exit_time": "2022-03-25 14:12:20"
+  },
+  {
+    "id": 57136,
+    "trailer_id": 15120,
+    "facility_id": 846,
+    "entrance_time": "2022-03-24 18:30:31",
+    "exit_time": "2022-03-26 13:05:15"
+  },
+  {
+    "id": 57135,
+    "trailer_id": 14475,
+    "facility_id": 1,
+    "entrance_time": "2022-03-24 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57134,
+    "trailer_id": 15156,
+    "facility_id": 846,
+    "entrance_time": "2022-03-24 17:39:44",
+    "exit_time": null
+  },
+  {
+    "id": 57133,
+    "trailer_id": 6508,
+    "facility_id": 319,
+    "entrance_time": "2022-03-24 16:56:32",
+    "exit_time": null
+  },
+  {
+    "id": 57132,
+    "trailer_id": 15099,
+    "facility_id": 319,
+    "entrance_time": "2022-03-24 17:22:16",
+    "exit_time": "2022-03-24 21:05:02"
+  },
+  {
+    "id": 57131,
+    "trailer_id": 15150,
+    "facility_id": 319,
+    "entrance_time": "2022-03-24 16:48:27",
+    "exit_time": "2022-03-25 00:03:57"
+  },
+  {
+    "id": 57130,
+    "trailer_id": 15151,
+    "facility_id": 1,
+    "entrance_time": "2022-03-24 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57129,
+    "trailer_id": 12419,
+    "facility_id": 319,
+    "entrance_time": "2022-03-24 00:23:07",
+    "exit_time": "2022-03-24 18:05:27"
+  },
+  {
+    "id": 57128,
+    "trailer_id": 15148,
+    "facility_id": 1,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": "2022-03-24 19:14:25"
+  },
+  {
+    "id": 57127,
+    "trailer_id": 15147,
+    "facility_id": 1,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": "2022-03-24 15:16:29"
+  },
+  {
+    "id": 57126,
+    "trailer_id": 13214,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57125,
+    "trailer_id": 15057,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 19:08:04",
+    "exit_time": "2022-03-25 13:08:04"
+  },
+  {
+    "id": 57124,
+    "trailer_id": 14228,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57123,
+    "trailer_id": 15093,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": "2022-03-25 01:06:33"
+  },
+  {
+    "id": 57122,
+    "trailer_id": 6626,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57121,
+    "trailer_id": 15130,
+    "facility_id": 846,
+    "entrance_time": "2022-03-24 01:06:31",
+    "exit_time": "2022-03-24 07:06:30"
+  },
+  {
+    "id": 57120,
+    "trailer_id": 15130,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 22:52:07",
+    "exit_time": "2022-03-24 03:08:41"
+  },
+  {
+    "id": 57119,
+    "trailer_id": 6626,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 22:37:33",
+    "exit_time": null
+  },
+  {
+    "id": 57118,
+    "trailer_id": 15146,
+    "facility_id": 1,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": "2022-03-24 08:12:19"
+  },
+  {
+    "id": 57117,
+    "trailer_id": 14670,
+    "facility_id": 1,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57116,
+    "trailer_id": 14228,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 21:52:07",
+    "exit_time": null
+  },
+  {
+    "id": 57115,
+    "trailer_id": 15093,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 21:30:40",
+    "exit_time": "2022-03-24 19:05:40"
+  },
+  {
+    "id": 57114,
+    "trailer_id": 15145,
+    "facility_id": 1,
+    "entrance_time": "2022-03-23 07:00:00",
+    "exit_time": "2022-03-24 15:16:29"
+  },
+  {
+    "id": 57113,
+    "trailer_id": 15107,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 13:08:04",
+    "exit_time": "2022-03-25 01:08:04"
+  },
+  {
+    "id": 57112,
+    "trailer_id": 15114,
+    "facility_id": 319,
+    "entrance_time": "2022-03-23 19:07:07",
+    "exit_time": "2022-03-25 19:07:13"
+  },
+  {
+    "id": 57111,
+    "trailer_id": 2785,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 17:06:31",
+    "exit_time": "2022-03-23 18:06:32"
+  },
+  {
+    "id": 57110,
+    "trailer_id": 15133,
+    "facility_id": 319,
+    "entrance_time": "2022-03-23 16:04:28",
+    "exit_time": "2022-03-23 22:05:13"
+  },
+  {
+    "id": 57109,
+    "trailer_id": 14468,
+    "facility_id": 1,
+    "entrance_time": "2022-03-23 08:12:19",
+    "exit_time": "2022-03-24 15:16:29"
+  },
+  {
+    "id": 57108,
+    "trailer_id": 15135,
+    "facility_id": 319,
+    "entrance_time": "2022-03-23 03:49:38",
+    "exit_time": null
+  },
+  {
+    "id": 57107,
+    "trailer_id": 15080,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 13:08:05",
+    "exit_time": "2022-03-25 19:08:04"
+  },
+  {
+    "id": 57106,
+    "trailer_id": 15092,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 07:00:00",
+    "exit_time": "2022-03-25 01:08:04"
+  },
+  {
+    "id": 57105,
+    "trailer_id": 15107,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 07:00:00",
+    "exit_time": "2022-03-23 13:08:03"
+  },
+  {
+    "id": 57104,
+    "trailer_id": 15091,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 19:08:04",
+    "exit_time": null
+  },
+  {
+    "id": 57103,
+    "trailer_id": 15089,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 19:08:04",
+    "exit_time": "2022-03-24 19:08:03"
+  },
+  {
+    "id": 57102,
+    "trailer_id": 15079,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 19:08:04",
+    "exit_time": "2022-03-24 01:08:04"
+  },
+  {
+    "id": 57101,
+    "trailer_id": 15066,
+    "facility_id": 846,
+    "entrance_time": "2022-03-23 01:08:06",
+    "exit_time": "2022-03-24 01:08:04"
+  },
+  {
+    "id": 57100,
+    "trailer_id": 15123,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57099,
+    "trailer_id": 15130,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 07:00:00",
+    "exit_time": "2022-03-24 01:06:30"
+  },
+  {
+    "id": 57098,
+    "trailer_id": 15133,
+    "facility_id": 319,
+    "entrance_time": "2022-03-22 21:30:41",
+    "exit_time": "2022-03-23 16:04:27"
+  },
+  {
+    "id": 57097,
+    "trailer_id": 15131,
+    "facility_id": 319,
+    "entrance_time": "2022-03-22 20:11:34",
+    "exit_time": "2022-03-25 18:06:01"
+  },
+  {
+    "id": 57096,
+    "trailer_id": 15132,
+    "facility_id": 319,
+    "entrance_time": "2022-03-22 19:25:38",
+    "exit_time": null
+  },
+  {
+    "id": 57095,
+    "trailer_id": 15099,
+    "facility_id": 319,
+    "entrance_time": "2022-03-22 19:05:06",
+    "exit_time": "2022-03-24 13:06:18"
+  },
+  {
+    "id": 57094,
+    "trailer_id": 15077,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 13:08:05",
+    "exit_time": "2022-03-23 01:08:05"
+  },
+  {
+    "id": 57093,
+    "trailer_id": 15076,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 13:08:05",
+    "exit_time": "2022-03-25 01:08:04"
+  },
+  {
+    "id": 57092,
+    "trailer_id": 12419,
+    "facility_id": 319,
+    "entrance_time": "2022-03-22 16:47:15",
+    "exit_time": "2022-03-23 22:05:13"
+  },
+  {
+    "id": 57091,
+    "trailer_id": 15130,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 17:05:35",
+    "exit_time": "2022-03-23 20:04:26"
+  },
+  {
+    "id": 57090,
+    "trailer_id": 15125,
+    "facility_id": 319,
+    "entrance_time": "2022-03-22 05:34:57",
+    "exit_time": null
+  },
+  {
+    "id": 57089,
+    "trailer_id": 15074,
+    "facility_id": 1,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57088,
+    "trailer_id": 15091,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": "2022-03-22 19:08:03"
+  },
+  {
+    "id": 57087,
+    "trailer_id": 15127,
+    "facility_id": 1,
+    "entrance_time": "2022-03-22 07:00:00",
+    "exit_time": "2022-03-23 08:12:18"
+  },
+  {
+    "id": 57086,
+    "trailer_id": 15126,
+    "facility_id": 1,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": "2022-03-22 18:12:17"
+  },
+  {
+    "id": 57085,
+    "trailer_id": 15125,
+    "facility_id": 319,
+    "entrance_time": "2022-03-22 05:38:00",
+    "exit_time": "2022-03-22 15:04:06"
+  },
+  {
+    "id": 57084,
+    "trailer_id": 15089,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": "2022-03-22 19:08:03"
+  },
+  {
+    "id": 57083,
+    "trailer_id": 15070,
+    "facility_id": 846,
+    "entrance_time": "2022-03-22 01:08:06",
+    "exit_time": "2022-03-22 13:08:04"
+  },
+  {
+    "id": 57082,
+    "trailer_id": 15079,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": "2022-03-22 19:08:03"
+  },
+  {
+    "id": 57081,
+    "trailer_id": 15115,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": "2022-03-23 01:06:28"
+  },
+  {
+    "id": 57080,
+    "trailer_id": 2785,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": "2022-03-24 01:06:30"
+  },
+  {
+    "id": 57079,
+    "trailer_id": 15119,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57078,
+    "trailer_id": 15120,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": "2022-03-24 19:06:33"
+  },
+  {
+    "id": 57077,
+    "trailer_id": 15114,
+    "facility_id": 319,
+    "entrance_time": "2022-03-22 01:04:22",
+    "exit_time": "2022-03-23 19:07:06"
+  },
+  {
+    "id": 57076,
+    "trailer_id": 15120,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 23:20:55",
+    "exit_time": "2022-03-24 14:08:11"
+  },
+  {
+    "id": 57075,
+    "trailer_id": 15119,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 21:47:01",
+    "exit_time": null
+  },
+  {
+    "id": 57074,
+    "trailer_id": 2785,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 20:40:41",
+    "exit_time": "2022-03-23 17:06:30"
+  },
+  {
+    "id": 57073,
+    "trailer_id": 15115,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 20:23:10",
+    "exit_time": "2022-03-22 18:05:32"
+  },
+  {
+    "id": 57072,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-03-21 21:16:09",
+    "exit_time": "2022-03-23 19:07:06"
+  },
+  {
+    "id": 57071,
+    "trailer_id": 15117,
+    "facility_id": 1,
+    "entrance_time": "2022-03-21 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57070,
+    "trailer_id": 15101,
+    "facility_id": 319,
+    "entrance_time": "2022-03-21 19:36:49",
+    "exit_time": "2022-03-21 22:06:19"
+  },
+  {
+    "id": 57069,
+    "trailer_id": 14573,
+    "facility_id": 319,
+    "entrance_time": "2022-03-21 19:04:22",
+    "exit_time": "2022-03-24 15:03:40"
+  },
+  {
+    "id": 57068,
+    "trailer_id": 15067,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 13:08:05",
+    "exit_time": "2022-03-22 01:08:05"
+  },
+  {
+    "id": 57067,
+    "trailer_id": 15071,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 13:08:05",
+    "exit_time": null
+  },
+  {
+    "id": 57066,
+    "trailer_id": 15096,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 19:06:34",
+    "exit_time": "2022-03-22 13:06:33"
+  },
+  {
+    "id": 57065,
+    "trailer_id": 14977,
+    "facility_id": 319,
+    "entrance_time": "2022-03-21 18:09:00",
+    "exit_time": "2022-03-21 20:05:36"
+  },
+  {
+    "id": 57064,
+    "trailer_id": 15114,
+    "facility_id": 319,
+    "entrance_time": "2022-03-21 19:06:36",
+    "exit_time": "2022-03-22 01:04:21"
+  },
+  {
+    "id": 57063,
+    "trailer_id": 15114,
+    "facility_id": 319,
+    "entrance_time": "2022-03-21 17:51:07",
+    "exit_time": "2022-03-21 19:06:35"
+  },
+  {
+    "id": 57062,
+    "trailer_id": 90,
+    "facility_id": 1,
+    "entrance_time": "2022-03-20 07:00:00",
+    "exit_time": "2022-03-22 17:12:17"
+  },
+  {
+    "id": 57061,
+    "trailer_id": 14468,
+    "facility_id": 1,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": "2022-03-23 08:12:18"
+  },
+  {
+    "id": 57060,
+    "trailer_id": 15113,
+    "facility_id": 1,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": "2022-03-21 20:20:29"
+  },
+  {
+    "id": 57059,
+    "trailer_id": 15112,
+    "facility_id": 1,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57058,
+    "trailer_id": 15111,
+    "facility_id": 1,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57057,
+    "trailer_id": 15110,
+    "facility_id": 1,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": "2022-03-22 14:12:17"
+  },
+  {
+    "id": 57056,
+    "trailer_id": 15109,
+    "facility_id": 1,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": "2022-03-24 08:12:19"
+  },
+  {
+    "id": 57055,
+    "trailer_id": 15096,
+    "facility_id": 846,
+    "entrance_time": "2022-03-21 16:21:29",
+    "exit_time": "2022-03-22 03:07:15"
+  },
+  {
+    "id": 57054,
+    "trailer_id": 4009,
+    "facility_id": 319,
+    "entrance_time": "2022-03-21 04:15:41",
+    "exit_time": null
+  },
+  {
+    "id": 57053,
+    "trailer_id": 15071,
+    "facility_id": 846,
+    "entrance_time": "2022-03-20 07:00:00",
+    "exit_time": "2022-03-21 13:08:04"
+  },
+  {
+    "id": 57052,
+    "trailer_id": 12419,
+    "facility_id": 319,
+    "entrance_time": "2022-03-20 23:56:35",
+    "exit_time": "2022-03-22 14:05:40"
+  },
+  {
+    "id": 57051,
+    "trailer_id": 15104,
+    "facility_id": 319,
+    "entrance_time": "2022-03-20 23:14:57",
+    "exit_time": null
+  },
+  {
+    "id": 57050,
+    "trailer_id": 15057,
+    "facility_id": 846,
+    "entrance_time": "2022-03-20 07:00:00",
+    "exit_time": "2022-03-23 19:08:03"
+  },
+  {
+    "id": 57049,
+    "trailer_id": 15080,
+    "facility_id": 846,
+    "entrance_time": "2022-03-20 07:00:00",
+    "exit_time": "2022-03-22 13:08:04"
+  },
+  {
+    "id": 57048,
+    "trailer_id": 15067,
+    "facility_id": 846,
+    "entrance_time": "2022-03-20 07:00:00",
+    "exit_time": "2022-03-21 13:08:04"
+  },
+  {
+    "id": 57047,
+    "trailer_id": 15076,
+    "facility_id": 846,
+    "entrance_time": "2022-03-20 07:00:00",
+    "exit_time": "2022-03-22 13:08:04"
+  },
+  {
+    "id": 57046,
+    "trailer_id": 15103,
+    "facility_id": 319,
+    "entrance_time": "2022-03-20 04:14:36",
+    "exit_time": null
+  },
+  {
+    "id": 57045,
+    "trailer_id": 15078,
+    "facility_id": 846,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": "2022-03-21 19:08:04"
+  },
+  {
+    "id": 57044,
+    "trailer_id": 15077,
+    "facility_id": 846,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": "2022-03-22 13:08:04"
+  },
+  {
+    "id": 57043,
+    "trailer_id": 15102,
+    "facility_id": 846,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": "2022-03-20 01:08:04"
+  },
+  {
+    "id": 57042,
+    "trailer_id": 15101,
+    "facility_id": 319,
+    "entrance_time": "2022-03-19 14:51:24",
+    "exit_time": "2022-03-21 19:06:35"
+  },
+  {
+    "id": 57041,
+    "trailer_id": 15100,
+    "facility_id": 1,
+    "entrance_time": "2022-03-19 07:00:00",
+    "exit_time": "2022-03-23 08:12:18"
+  },
+  {
+    "id": 57040,
+    "trailer_id": 15095,
+    "facility_id": 1,
+    "entrance_time": "2022-03-18 07:00:00",
+    "exit_time": "2022-03-21 16:12:16"
+  },
+  {
+    "id": 57039,
+    "trailer_id": 15099,
+    "facility_id": 319,
+    "entrance_time": "2022-03-19 05:08:29",
+    "exit_time": "2022-03-22 19:05:05"
+  },
+  {
+    "id": 57038,
+    "trailer_id": 12988,
+    "facility_id": 846,
+    "entrance_time": "2022-03-19 01:05:13",
+    "exit_time": "2022-03-22 00:04:41"
+  },
+  {
+    "id": 57037,
+    "trailer_id": 15098,
+    "facility_id": 113,
+    "entrance_time": "2022-03-19 03:29:00",
+    "exit_time": null
+  },
+  {
+    "id": 57036,
+    "trailer_id": 15096,
+    "facility_id": 846,
+    "entrance_time": "2022-03-19 00:19:13",
+    "exit_time": "2022-03-21 15:04:44"
+  },
+  {
+    "id": 57035,
+    "trailer_id": 15097,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 07:00:00",
+    "exit_time": "2022-03-20 19:08:04"
+  },
+  {
+    "id": 57034,
+    "trailer_id": 15070,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 07:00:00",
+    "exit_time": "2022-03-22 01:08:05"
+  },
+  {
+    "id": 57033,
+    "trailer_id": 15066,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 07:00:00",
+    "exit_time": "2022-03-23 01:08:05"
+  },
+  {
+    "id": 57032,
+    "trailer_id": 13759,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 07:00:00",
+    "exit_time": "2022-03-22 01:06:32"
+  },
+  {
+    "id": 57031,
+    "trailer_id": 15096,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 07:00:00",
+    "exit_time": "2022-03-21 19:06:33"
+  },
+  {
+    "id": 57030,
+    "trailer_id": 3082,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 23:20:36",
+    "exit_time": "2022-03-19 01:03:43"
+  },
+  {
+    "id": 57029,
+    "trailer_id": 13759,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 22:41:13",
+    "exit_time": "2022-03-21 22:06:19"
+  },
+  {
+    "id": 57028,
+    "trailer_id": 15094,
+    "facility_id": 1,
+    "entrance_time": "2022-03-18 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57027,
+    "trailer_id": 14475,
+    "facility_id": 1,
+    "entrance_time": "2022-03-18 07:00:00",
+    "exit_time": "2022-03-23 14:12:18"
+  },
+  {
+    "id": 57026,
+    "trailer_id": 15040,
+    "facility_id": 319,
+    "entrance_time": "2022-03-18 20:27:30",
+    "exit_time": "2022-03-21 17:06:18"
+  },
+  {
+    "id": 57025,
+    "trailer_id": 15093,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 20:23:29",
+    "exit_time": "2022-03-18 23:05:14"
+  },
+  {
+    "id": 57024,
+    "trailer_id": 556,
+    "facility_id": 319,
+    "entrance_time": "2022-03-18 19:48:28",
+    "exit_time": null
+  },
+  {
+    "id": 57023,
+    "trailer_id": 15086,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 19:08:04",
+    "exit_time": "2022-03-20 13:08:04"
+  },
+  {
+    "id": 57022,
+    "trailer_id": 15035,
+    "facility_id": 319,
+    "entrance_time": "2022-03-18 17:50:04",
+    "exit_time": "2022-03-19 16:03:23"
+  },
+  {
+    "id": 57021,
+    "trailer_id": 15088,
+    "facility_id": 319,
+    "entrance_time": "2022-03-18 16:09:44",
+    "exit_time": "2022-03-21 05:05:00"
+  },
+  {
+    "id": 57020,
+    "trailer_id": 15087,
+    "facility_id": 319,
+    "entrance_time": "2022-03-18 14:22:36",
+    "exit_time": "2022-03-19 17:05:18"
+  },
+  {
+    "id": 57019,
+    "trailer_id": 15086,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 07:00:00",
+    "exit_time": "2022-03-18 19:08:03"
+  },
+  {
+    "id": 57018,
+    "trailer_id": 15085,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 01:34:28",
+    "exit_time": "2022-03-18 03:06:13"
+  },
+  {
+    "id": 57017,
+    "trailer_id": 15010,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 19:08:04",
+    "exit_time": "2022-03-18 19:08:03"
+  },
+  {
+    "id": 57016,
+    "trailer_id": 15054,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 07:00:00",
+    "exit_time": "2022-03-19 19:08:03"
+  },
+  {
+    "id": 57015,
+    "trailer_id": 15036,
+    "facility_id": 846,
+    "entrance_time": "2022-03-18 01:06:33",
+    "exit_time": "2022-03-22 01:06:32"
+  },
+  {
+    "id": 57014,
+    "trailer_id": 15084,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 07:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 57013,
+    "trailer_id": 15083,
+    "facility_id": 319,
+    "entrance_time": "2022-03-17 22:56:05",
+    "exit_time": "2022-03-23 05:05:35"
+  },
+  {
+    "id": 57012,
+    "trailer_id": 3082,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 22:09:11",
+    "exit_time": "2022-03-18 20:04:42"
+  },
+  {
+    "id": 57011,
+    "trailer_id": 15036,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 21:06:41",
+    "exit_time": "2022-03-22 03:07:15"
+  },
+  {
+    "id": 57010,
+    "trailer_id": 14670,
+    "facility_id": 1,
+    "entrance_time": "2022-03-17 14:02:02",
+    "exit_time": "2022-03-22 13:16:25"
+  },
+  {
+    "id": 57009,
+    "trailer_id": 15048,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 13:08:05",
+    "exit_time": "2022-03-19 01:08:04"
+  },
+  {
+    "id": 57008,
+    "trailer_id": 15049,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 07:00:00",
+    "exit_time": "2022-03-20 19:08:04"
+  },
+  {
+    "id": 57007,
+    "trailer_id": 674,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 17:04:48",
+    "exit_time": "2022-03-17 23:03:46"
+  },
+  {
+    "id": 57006,
+    "trailer_id": 3462,
+    "facility_id": 319,
+    "entrance_time": "2022-03-17 14:05:59",
+    "exit_time": null
+  },
+  {
+    "id": 57005,
+    "trailer_id": 15002,
+    "facility_id": 846,
+    "entrance_time": "2022-03-16 13:08:05",
+    "exit_time": "2022-03-17 19:08:03"
+  },
+  {
+    "id": 57004,
+    "trailer_id": 15068,
+    "facility_id": 846,
+    "entrance_time": "2022-03-16 07:00:00",
+    "exit_time": "2022-03-18 13:06:34"
+  },
+  {
+    "id": 57003,
+    "trailer_id": 15068,
+    "facility_id": 846,
+    "entrance_time": "2022-03-17 00:05:41",
+    "exit_time": "2022-03-18 02:03:15"
+  },
+  {
+    "id": 57002,
+    "trailer_id": 14977,
+    "facility_id": 319,
+    "entrance_time": "2022-03-17 00:24:12",
+    "exit_time": "2022-03-21 17:06:18"
+  },
+  {
+    "id": 57001,
+    "trailer_id": 674,
+    "facility_id": 846,
+    "entrance_time": "2022-03-16 21:56:05",
+    "exit_time": "2022-03-17 17:04:47"
+  },
+  {
+    "id": 57000,
+    "trailer_id": 843,
+    "facility_id": 319,
+    "entrance_time": "2022-03-16 18:53:00",
+    "exit_time": null
+  },
+  {
+    "id": 56999,
+    "trailer_id": 15048,
+    "facility_id": 846,
+    "entrance_time": "2022-03-16 07:00:00",
+    "exit_time": "2022-03-17 13:08:04"
+  },
+  {
+    "id": 56998,
+    "trailer_id": 15052,
+    "facility_id": 846,
+    "entrance_time": "2022-03-16 19:08:05",
+    "exit_time": "2022-03-18 01:08:04"
+  },
+  {
+    "id": 56997,
+    "trailer_id": 14814,
+    "facility_id": 846,
+    "entrance_time": "2022-03-16 07:00:00",
+    "exit_time": "2022-03-19 19:08:03"
+  },
+  {
+    "id": 56996,
+    "trailer_id": 15069,
+    "facility_id": 846,
+    "entrance_time": "2022-03-16 07:00:00",
+    "exit_time": "2022-03-17 19:08:03"
+  },
+  {
+    "id": 56995,
+    "trailer_id": 4084,
+    "facility_id": 319,
+    "entrance_time": "2022-03-16 19:05:00",
+    "exit_time": "2022-03-16 20:04:11"
+  },
+  {
+    "id": 56994,
+    "trailer_id": 15056,
+    "facility_id": 319,
+    "entrance_time": "2022-03-16 16:28:12",
+    "exit_time": "2022-03-17 01:03:16"
+  },
+  {
+    "id": 56993,
+    "trailer_id": 15062,
+    "facility_id": 1,
+    "entrance_time": "2022-03-16 14:02:00",
+    "exit_time": "2022-03-17 08:02:01"
+  },
+  {
+    "id": 56992,
+    "trailer_id": 7226,
+    "facility_id": 319,
+    "entrance_time": "2022-03-16 15:00:37",
+    "exit_time": "2022-03-18 20:04:38"
+  },
+  {
+    "id": 56991,
+    "trailer_id": 15064,
+    "facility_id": 846,
+    "entrance_time": "2022-03-16 07:00:00",
+    "exit_time": "2022-03-17 01:08:05"
+  },
+  {
+    "id": 56990,
+    "trailer_id": 4084,
+    "facility_id": 319,
+    "entrance_time": "2022-03-16 11:11:52",
+    "exit_time": "2022-03-16 19:04:59"
+  },
+  {
+    "id": 56989,
+    "trailer_id": 15062,
+    "facility_id": 1,
+    "entrance_time": "2022-03-15 07:00:00",
+    "exit_time": "2022-03-16 14:01:59"
+  },
+  {
+    "id": 56988,
+    "trailer_id": 15052,
+    "facility_id": 846,
+    "entrance_time": "2022-03-15 07:00:00",
+    "exit_time": "2022-03-16 19:08:04"
+  },
+  {
+    "id": 56987,
+    "trailer_id": 15039,
+    "facility_id": 846,
+    "entrance_time": "2022-03-15 19:08:05",
+    "exit_time": "2022-03-19 01:08:04"
+  },
+  {
+    "id": 56986,
+    "trailer_id": 15047,
+    "facility_id": 846,
+    "entrance_time": "2022-03-15 07:00:00",
+    "exit_time": "2022-03-16 13:08:04"
+  },
+  {
+    "id": 56985,
+    "trailer_id": 15036,
+    "facility_id": 846,
+    "entrance_time": "2022-03-15 13:06:35",
+    "exit_time": "2022-03-18 01:06:32"
+  },
+  {
+    "id": 56984,
+    "trailer_id": 556,
+    "facility_id": 319,
+    "entrance_time": "2022-03-15 23:27:48",
+    "exit_time": "2022-03-18 17:04:44"
+  },
+  {
+    "id": 56983,
+    "trailer_id": 4084,
+    "facility_id": 319,
+    "entrance_time": "2022-03-15 22:49:45",
+    "exit_time": "2022-03-16 02:03:41"
+  },
+  {
+    "id": 56982,
+    "trailer_id": 15034,
+    "facility_id": 319,
+    "entrance_time": "2022-03-15 20:07:18",
+    "exit_time": "2022-03-16 00:05:01"
+  },
+  {
+    "id": 56981,
+    "trailer_id": 15036,
+    "facility_id": 846,
+    "entrance_time": "2022-03-15 19:23:05",
+    "exit_time": "2022-03-17 18:04:34"
+  },
+  {
+    "id": 56980,
+    "trailer_id": 15058,
+    "facility_id": 319,
+    "entrance_time": "2022-03-15 17:18:26",
+    "exit_time": "2022-03-18 15:03:47"
+  },
+  {
+    "id": 56979,
+    "trailer_id": 674,
+    "facility_id": 846,
+    "entrance_time": "2022-03-15 13:06:35",
+    "exit_time": "2022-03-17 19:06:36"
+  },
+  {
+    "id": 56978,
+    "trailer_id": 15035,
+    "facility_id": 319,
+    "entrance_time": "2022-03-15 17:04:35",
+    "exit_time": "2022-03-18 14:04:16"
+  },
+  {
+    "id": 56977,
+    "trailer_id": 674,
+    "facility_id": 846,
+    "entrance_time": "2022-03-15 16:25:29",
+    "exit_time": "2022-03-16 21:03:52"
+  },
+  {
+    "id": 56976,
+    "trailer_id": 15037,
+    "facility_id": 846,
+    "entrance_time": "2022-03-14 18:44:57",
+    "exit_time": "2022-03-16 22:04:28"
+  },
+  {
+    "id": 56975,
+    "trailer_id": 15056,
+    "facility_id": 319,
+    "entrance_time": "2022-03-15 01:03:42",
+    "exit_time": "2022-03-16 15:04:05"
+  },
+  {
+    "id": 56974,
+    "trailer_id": 14931,
+    "facility_id": 846,
+    "entrance_time": "2022-03-14 19:08:05",
+    "exit_time": "2022-03-16 01:08:04"
+  },
+  {
+    "id": 56973,
+    "trailer_id": 15037,
+    "facility_id": 846,
+    "entrance_time": "2022-03-14 07:00:00",
+    "exit_time": "2022-03-17 01:06:35"
+  },
+  {
+    "id": 56972,
+    "trailer_id": 1158,
+    "facility_id": 319,
+    "entrance_time": "2022-03-15 00:37:16",
+    "exit_time": null
+  },
+  {
+    "id": 56971,
+    "trailer_id": 15050,
+    "facility_id": 319,
+    "entrance_time": "2022-03-14 23:43:39",
+    "exit_time": "2022-03-21 00:03:44"
+  },
+  {
+    "id": 56970,
+    "trailer_id": 3462,
+    "facility_id": 319,
+    "entrance_time": "2022-03-14 23:18:33",
+    "exit_time": "2022-03-17 13:05:46"
+  },
+  {
+    "id": 56969,
+    "trailer_id": 15055,
+    "facility_id": 319,
+    "entrance_time": "2022-03-14 23:08:03",
+    "exit_time": "2022-03-15 07:03:41"
+  },
+  {
+    "id": 56968,
+    "trailer_id": 15053,
+    "facility_id": 319,
+    "entrance_time": "2022-03-14 22:21:49",
+    "exit_time": "2022-03-15 00:04:48"
+  },
+  {
+    "id": 56967,
+    "trailer_id": 13630,
+    "facility_id": 319,
+    "entrance_time": "2022-03-14 19:51:24",
+    "exit_time": "2022-03-15 17:04:34"
+  },
+  {
+    "id": 56966,
+    "trailer_id": 15041,
+    "facility_id": 319,
+    "entrance_time": "2022-03-14 19:07:24",
+    "exit_time": "2022-03-21 02:03:53"
+  },
+  {
+    "id": 56965,
+    "trailer_id": 15002,
+    "facility_id": 846,
+    "entrance_time": "2022-03-14 13:08:05",
+    "exit_time": "2022-03-16 13:08:04"
+  },
+  {
+    "id": 56964,
+    "trailer_id": 15011,
+    "facility_id": 846,
+    "entrance_time": "2022-03-14 13:08:05",
+    "exit_time": "2022-03-19 13:08:04"
+  },
+  {
+    "id": 56963,
+    "trailer_id": 15050,
+    "facility_id": 319,
+    "entrance_time": "2022-03-14 17:07:05",
+    "exit_time": "2022-03-14 22:04:15"
+  },
+  {
+    "id": 56962,
+    "trailer_id": 12280,
+    "facility_id": 319,
+    "entrance_time": "2022-03-10 17:50:17",
+    "exit_time": "2022-03-15 02:03:53"
+  },
+  {
+    "id": 56961,
+    "trailer_id": 12280,
+    "facility_id": 319,
+    "entrance_time": "2022-03-14 02:03:48",
+    "exit_time": "2022-03-14 06:03:58"
+  },
+  {
+    "id": 56960,
+    "trailer_id": 15039,
+    "facility_id": 846,
+    "entrance_time": "2022-03-13 08:00:00",
+    "exit_time": "2022-03-15 19:08:04"
+  },
+  {
+    "id": 56959,
+    "trailer_id": 14582,
+    "facility_id": 1,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": "2022-03-16 03:01:59"
+  },
+  {
+    "id": 56958,
+    "trailer_id": 15033,
+    "facility_id": 846,
+    "entrance_time": "2022-03-13 08:00:00",
+    "exit_time": "2022-03-17 01:08:05"
+  },
+  {
+    "id": 56957,
+    "trailer_id": 15042,
+    "facility_id": 846,
+    "entrance_time": "2022-03-13 08:00:00",
+    "exit_time": "2022-03-17 01:06:35"
+  },
+  {
+    "id": 56956,
+    "trailer_id": 674,
+    "facility_id": 846,
+    "entrance_time": "2022-03-13 08:00:00",
+    "exit_time": "2022-03-15 13:06:34"
+  },
+  {
+    "id": 56955,
+    "trailer_id": 674,
+    "facility_id": 846,
+    "entrance_time": "2022-03-13 14:41:37",
+    "exit_time": "2022-03-15 16:03:51"
+  },
+  {
+    "id": 56954,
+    "trailer_id": 15042,
+    "facility_id": 846,
+    "entrance_time": "2022-03-13 12:48:36",
+    "exit_time": "2022-03-16 22:04:28"
+  },
+  {
+    "id": 56953,
+    "trailer_id": 15035,
+    "facility_id": 319,
+    "entrance_time": "2022-03-13 03:39:13",
+    "exit_time": "2022-03-15 17:04:34"
+  },
+  {
+    "id": 56952,
+    "trailer_id": 12280,
+    "facility_id": 319,
+    "entrance_time": "2022-03-13 10:04:13",
+    "exit_time": "2022-03-14 02:03:47"
+  },
+  {
+    "id": 56951,
+    "trailer_id": 15034,
+    "facility_id": 319,
+    "entrance_time": "2022-03-13 01:48:45",
+    "exit_time": "2022-03-15 15:03:18"
+  },
+  {
+    "id": 56950,
+    "trailer_id": 15011,
+    "facility_id": 846,
+    "entrance_time": "2022-03-12 08:00:00",
+    "exit_time": "2022-03-14 13:08:04"
+  },
+  {
+    "id": 56949,
+    "trailer_id": 12280,
+    "facility_id": 319,
+    "entrance_time": "2022-03-12 23:03:06",
+    "exit_time": "2022-03-13 10:04:12"
+  },
+  {
+    "id": 56948,
+    "trailer_id": 15041,
+    "facility_id": 319,
+    "entrance_time": "2022-03-12 18:38:04",
+    "exit_time": "2022-03-12 23:03:05"
+  },
+  {
+    "id": 56947,
+    "trailer_id": 15040,
+    "facility_id": 319,
+    "entrance_time": "2022-03-12 14:17:25",
+    "exit_time": "2022-03-18 19:06:11"
+  },
+  {
+    "id": 56946,
+    "trailer_id": 159,
+    "facility_id": 846,
+    "entrance_time": "2022-03-12 01:18:00",
+    "exit_time": "2022-03-14 23:05:09"
+  },
+  {
+    "id": 56945,
+    "trailer_id": 12280,
+    "facility_id": 319,
+    "entrance_time": "2022-03-12 01:23:00",
+    "exit_time": "2022-03-12 23:03:05"
+  },
+  {
+    "id": 56944,
+    "trailer_id": 15038,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56943,
+    "trailer_id": 14826,
+    "facility_id": 319,
+    "entrance_time": "2022-03-12 05:10:28",
+    "exit_time": "2022-03-15 15:03:18"
+  },
+  {
+    "id": 56942,
+    "trailer_id": 15038,
+    "facility_id": 846,
+    "entrance_time": "2022-03-12 02:58:16",
+    "exit_time": "2022-03-12 18:05:29"
+  },
+  {
+    "id": 56941,
+    "trailer_id": 14999,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": "2022-03-12 20:08:04"
+  },
+  {
+    "id": 56940,
+    "trailer_id": 15008,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": "2022-03-13 02:08:03"
+  },
+  {
+    "id": 56939,
+    "trailer_id": 14931,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": "2022-03-14 19:08:04"
+  },
+  {
+    "id": 56938,
+    "trailer_id": 15002,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": "2022-03-14 13:08:04"
+  },
+  {
+    "id": 56937,
+    "trailer_id": 14893,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": "2022-03-13 19:08:04"
+  },
+  {
+    "id": 56936,
+    "trailer_id": 15010,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": "2022-03-17 19:08:03"
+  },
+  {
+    "id": 56935,
+    "trailer_id": 15036,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 08:00:00",
+    "exit_time": "2022-03-15 13:06:34"
+  },
+  {
+    "id": 56934,
+    "trailer_id": 576,
+    "facility_id": 319,
+    "entrance_time": "2022-03-12 00:05:13",
+    "exit_time": "2022-03-14 18:04:40"
+  },
+  {
+    "id": 56933,
+    "trailer_id": 15036,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 23:18:47",
+    "exit_time": "2022-03-15 18:05:08"
+  },
+  {
+    "id": 56932,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-03-11 22:04:20",
+    "exit_time": "2022-03-21 20:05:36"
+  },
+  {
+    "id": 56931,
+    "trailer_id": 14701,
+    "facility_id": 846,
+    "entrance_time": "2022-02-09 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56930,
+    "trailer_id": 15032,
+    "facility_id": 846,
+    "entrance_time": "2022-02-14 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56929,
+    "trailer_id": 14772,
+    "facility_id": 846,
+    "entrance_time": "2022-02-14 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56928,
+    "trailer_id": 15031,
+    "facility_id": 846,
+    "entrance_time": "2022-02-16 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56927,
+    "trailer_id": 7788,
+    "facility_id": 846,
+    "entrance_time": "2022-02-17 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56926,
+    "trailer_id": 15030,
+    "facility_id": 846,
+    "entrance_time": "2022-02-23 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56925,
+    "trailer_id": 14898,
+    "facility_id": 846,
+    "entrance_time": "2022-02-28 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56924,
+    "trailer_id": 15029,
+    "facility_id": 846,
+    "entrance_time": "2022-03-02 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56923,
+    "trailer_id": 15028,
+    "facility_id": 846,
+    "entrance_time": "2022-03-02 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56922,
+    "trailer_id": 15027,
+    "facility_id": 846,
+    "entrance_time": "2022-03-06 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56921,
+    "trailer_id": 14953,
+    "facility_id": 846,
+    "entrance_time": "2022-03-07 08:00:00",
+    "exit_time": "2022-03-13 13:08:03"
+  },
+  {
+    "id": 56920,
+    "trailer_id": 14945,
+    "facility_id": 846,
+    "entrance_time": "2022-03-07 08:00:00",
+    "exit_time": "2022-03-12 02:08:04"
+  },
+  {
+    "id": 56919,
+    "trailer_id": 14957,
+    "facility_id": 846,
+    "entrance_time": "2022-03-07 08:00:00",
+    "exit_time": "2022-03-14 01:08:04"
+  },
+  {
+    "id": 56918,
+    "trailer_id": 15026,
+    "facility_id": 846,
+    "entrance_time": "2022-03-07 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56917,
+    "trailer_id": 14965,
+    "facility_id": 846,
+    "entrance_time": "2022-03-08 08:00:00",
+    "exit_time": "2022-03-13 19:08:04"
+  },
+  {
+    "id": 56916,
+    "trailer_id": 14988,
+    "facility_id": 846,
+    "entrance_time": "2022-03-08 08:00:00",
+    "exit_time": "2022-03-12 20:08:04"
+  },
+  {
+    "id": 56915,
+    "trailer_id": 14983,
+    "facility_id": 846,
+    "entrance_time": "2022-03-08 08:00:00",
+    "exit_time": "2022-03-12 02:08:04"
+  },
+  {
+    "id": 56914,
+    "trailer_id": 14973,
+    "facility_id": 846,
+    "entrance_time": "2022-03-09 08:00:00",
+    "exit_time": "2022-03-12 02:08:04"
+  },
+  {
+    "id": 56913,
+    "trailer_id": 14984,
+    "facility_id": 846,
+    "entrance_time": "2022-03-09 08:00:00",
+    "exit_time": "2022-03-13 02:08:03"
+  },
+  {
+    "id": 56912,
+    "trailer_id": 7800,
+    "facility_id": 846,
+    "entrance_time": "2022-03-09 08:00:00",
+    "exit_time": "2022-03-13 02:08:03"
+  },
+  {
+    "id": 56911,
+    "trailer_id": 14986,
+    "facility_id": 846,
+    "entrance_time": "2022-03-09 08:00:00",
+    "exit_time": "2022-03-12 02:08:04"
+  },
+  {
+    "id": 56910,
+    "trailer_id": 14982,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-12 02:08:04"
+  },
+  {
+    "id": 56909,
+    "trailer_id": 14980,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-12 02:08:04"
+  },
+  {
+    "id": 56908,
+    "trailer_id": 14981,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-13 02:08:03"
+  },
+  {
+    "id": 56907,
+    "trailer_id": 14770,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-16 19:08:04"
+  },
+  {
+    "id": 56906,
+    "trailer_id": 2529,
+    "facility_id": 846,
+    "entrance_time": "2022-02-10 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56905,
+    "trailer_id": 7526,
+    "facility_id": 846,
+    "entrance_time": "2022-02-11 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56904,
+    "trailer_id": 14878,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 08:00:00",
+    "exit_time": "2022-03-12 14:06:32"
+  },
+  {
+    "id": 56903,
+    "trailer_id": 2452,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 08:00:00",
+    "exit_time": "2022-03-22 01:06:32"
+  },
+  {
+    "id": 56902,
+    "trailer_id": 14399,
+    "facility_id": 846,
+    "entrance_time": "2022-02-24 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56901,
+    "trailer_id": 13759,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-17 01:06:35"
+  },
+  {
+    "id": 56900,
+    "trailer_id": 4985,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-12 02:06:33"
+  },
+  {
+    "id": 56899,
+    "trailer_id": 14375,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-12 20:06:33"
+  },
+  {
+    "id": 56898,
+    "trailer_id": 14883,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": null
+  },
+  {
+    "id": 56897,
+    "trailer_id": 12280,
+    "facility_id": 319,
+    "entrance_time": "2022-03-11 20:05:09",
+    "exit_time": "2022-03-11 23:05:15"
+  },
+  {
+    "id": 56896,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-03-11 20:05:09",
+    "exit_time": "2022-03-11 22:04:19"
+  },
+  {
+    "id": 56895,
+    "trailer_id": 12280,
+    "facility_id": 319,
+    "entrance_time": "2022-03-11 17:03:41",
+    "exit_time": "2022-03-11 20:05:08"
+  },
+  {
+    "id": 56894,
+    "trailer_id": 14975,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 16:03:26",
+    "exit_time": "2022-03-12 00:05:11"
+  },
+  {
+    "id": 56893,
+    "trailer_id": 15024,
+    "facility_id": 1,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-11 14:07:24"
+  },
+  {
+    "id": 56892,
+    "trailer_id": 12280,
+    "facility_id": 319,
+    "entrance_time": "2022-03-10 18:51:06",
+    "exit_time": "2022-03-11 17:03:40"
+  },
+  {
+    "id": 56891,
+    "trailer_id": 15023,
+    "facility_id": 319,
+    "entrance_time": "2022-03-11 01:04:36",
+    "exit_time": "2022-03-11 17:03:40"
+  },
+  {
+    "id": 56890,
+    "trailer_id": 14375,
+    "facility_id": 846,
+    "entrance_time": "2022-03-11 00:17:16",
+    "exit_time": "2022-03-12 14:04:09"
+  },
+  {
+    "id": 56889,
+    "trailer_id": 14975,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 23:07:14",
+    "exit_time": "2022-03-11 16:03:25"
+  },
+  {
+    "id": 56888,
+    "trailer_id": 4985,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 22:52:50",
+    "exit_time": "2022-03-12 00:05:11"
+  },
+  {
+    "id": 56887,
+    "trailer_id": 14994,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 19:50:49",
+    "exit_time": "2022-03-11 00:05:59"
+  },
+  {
+    "id": 56886,
+    "trailer_id": 13759,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 17:47:21",
+    "exit_time": "2022-03-16 22:04:28"
+  },
+  {
+    "id": 56885,
+    "trailer_id": 623,
+    "facility_id": 319,
+    "entrance_time": "2022-03-10 15:26:59",
+    "exit_time": "2022-03-14 21:04:57"
+  },
+  {
+    "id": 56884,
+    "trailer_id": 15018,
+    "facility_id": 319,
+    "entrance_time": "2022-03-10 16:20:57",
+    "exit_time": "2022-03-10 20:05:10"
+  },
+  {
+    "id": 56883,
+    "trailer_id": 15019,
+    "facility_id": 1,
+    "entrance_time": "2022-03-10 08:00:00",
+    "exit_time": "2022-03-11 16:11:33"
+  },
+  {
+    "id": 56882,
+    "trailer_id": 14995,
+    "facility_id": 319,
+    "entrance_time": "2022-03-09 23:30:23",
+    "exit_time": "2022-03-10 17:04:08"
+  },
+  {
+    "id": 56881,
+    "trailer_id": 15015,
+    "facility_id": 1,
+    "entrance_time": "2022-03-09 08:00:00",
+    "exit_time": "2022-03-11 09:07:24"
+  },
+  {
+    "id": 56880,
+    "trailer_id": 15014,
+    "facility_id": 1,
+    "entrance_time": "2022-03-09 08:00:00",
+    "exit_time": "2022-03-11 00:07:24"
+  },
+  {
+    "id": 56879,
+    "trailer_id": 15013,
+    "facility_id": 1,
+    "entrance_time": "2022-03-09 08:00:00",
+    "exit_time": "2022-03-10 21:11:29"
+  },
+  {
+    "id": 56878,
+    "trailer_id": 12988,
+    "facility_id": 846,
+    "entrance_time": "2022-03-10 01:54:23",
+    "exit_time": "2022-03-10 19:04:38"
+  },
+  {
+    "id": 56877,
+    "trailer_id": 14860,
+    "facility_id": 319,
+    "entrance_time": "2022-03-09 23:04:17",
+    "exit_time": "2022-03-13 21:04:28"
+  },
+  {
+    "id": 56876,
+    "trailer_id": 2078,
+    "facility_id": 846,
+    "entrance_time": "2022-03-09 22:05:59",
+    "exit_time": "2022-03-10 23:04:03"
+  },
+  {
+    "id": 56875,
+    "trailer_id": 14939,
+    "facility_id": 846,
+    "entrance_time": "2022-03-09 21:15:24",
+    "exit_time": "2022-03-10 20:05:12"
+  },
+  {
+    "id": 56874,
+    "trailer_id": 14860,
+    "facility_id": 319,
+    "entrance_time": "2022-03-09 19:04:25",
+    "exit_time": "2022-03-09 23:04:16"
+  },
+  {
+    "id": 56873,
+    "trailer_id": 601,
+    "facility_id": 846,
+    "entrance_time": "2022-03-09 02:03:48",
+    "exit_time": "2022-03-09 23:04:16"
+  },
+  {
+    "id": 56872,
+    "trailer_id": 15006,
+    "facility_id": 1,
+    "entrance_time": "2022-03-08 08:00:00",
+    "exit_time": "2022-03-10 12:09:25"
+  },
+  {
+    "id": 56871,
+    "trailer_id": 14670,
+    "facility_id": 1,
+    "entrance_time": "2022-03-08 08:00:00",
+    "exit_time": "2022-03-17 14:02:01"
+  },
+  {
+    "id": 56870,
+    "trailer_id": 14995,
+    "facility_id": 319,
+    "entrance_time": "2022-03-08 23:03:55",
+    "exit_time": "2022-03-09 22:04:04"
+  },
+  {
+    "id": 56869,
+    "trailer_id": 15005,
+    "facility_id": 319,
+    "entrance_time": "2022-03-08 21:44:12",
+    "exit_time": "2022-03-11 00:05:59"
+  },
+  {
+    "id": 56868,
+    "trailer_id": 576,
+    "facility_id": 319,
+    "entrance_time": "2022-03-08 22:03:38",
+    "exit_time": "2022-03-12 00:05:12"
+  },
+  {
+    "id": 56867,
+    "trailer_id": 15004,
+    "facility_id": 319,
+    "entrance_time": "2022-03-08 20:51:32",
+    "exit_time": "2022-03-10 17:04:08"
+  },
+  {
+    "id": 56866,
+    "trailer_id": 14995,
+    "facility_id": 319,
+    "entrance_time": "2022-03-08 20:06:01",
+    "exit_time": "2022-03-08 23:03:54"
+  },
+  {
+    "id": 56865,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-03-08 21:04:51",
+    "exit_time": "2022-03-09 20:05:30"
+  },
+  {
+    "id": 56864,
+    "trailer_id": 14979,
+    "facility_id": 319,
+    "entrance_time": "2022-03-06 16:53:25",
+    "exit_time": "2022-03-12 19:03:57"
+  },
+  {
+    "id": 56863,
+    "trailer_id": 6297,
+    "facility_id": 319,
+    "entrance_time": "2022-03-08 16:46:30",
+    "exit_time": "2022-03-14 22:04:15"
+  },
+  {
+    "id": 56862,
+    "trailer_id": 1265,
+    "facility_id": 319,
+    "entrance_time": "2022-03-08 18:05:17",
+    "exit_time": "2022-03-09 09:03:35"
+  },
+  {
+    "id": 56861,
+    "trailer_id": 576,
+    "facility_id": 319,
+    "entrance_time": "2022-03-08 19:04:47",
+    "exit_time": "2022-03-08 22:03:37"
+  },
+  {
+    "id": 56860,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-03-08 17:03:45",
+    "exit_time": "2022-03-08 21:04:50"
+  },
+  {
+    "id": 56859,
+    "trailer_id": 15001,
+    "facility_id": 319,
+    "entrance_time": "2022-03-07 22:52:05",
+    "exit_time": "2022-03-08 08:03:26"
+  },
+  {
+    "id": 56858,
+    "trailer_id": 14870,
+    "facility_id": 319,
+    "entrance_time": "2022-03-07 20:03:11",
+    "exit_time": "2022-03-08 23:03:54"
+  },
+  {
+    "id": 56857,
+    "trailer_id": 13933,
+    "facility_id": 319,
+    "entrance_time": "2022-03-07 17:03:47",
+    "exit_time": "2022-03-08 19:04:46"
+  },
+  {
+    "id": 56856,
+    "trailer_id": 14978,
+    "facility_id": 846,
+    "entrance_time": "2022-03-06 12:44:31",
+    "exit_time": "2022-03-07 18:04:27"
+  },
+  {
+    "id": 56855,
+    "trailer_id": 14995,
+    "facility_id": 319,
+    "entrance_time": "2022-03-07 01:41:09",
+    "exit_time": "2022-03-08 20:06:00"
+  },
+  {
+    "id": 56854,
+    "trailer_id": 14994,
+    "facility_id": 846,
+    "entrance_time": "2022-03-07 00:53:17",
+    "exit_time": "2022-03-09 20:05:30"
+  },
+  {
+    "id": 56853,
+    "trailer_id": 13933,
+    "facility_id": 319,
+    "entrance_time": "2022-03-05 22:41:24",
+    "exit_time": "2022-03-07 17:03:46"
+  },
+  {
+    "id": 56852,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-03-06 23:03:16",
+    "exit_time": "2022-03-08 17:03:44"
+  },
+  {
+    "id": 56851,
+    "trailer_id": 1265,
+    "facility_id": 319,
+    "entrance_time": "2022-03-06 19:34:12",
+    "exit_time": "2022-03-08 18:05:16"
+  },
+  {
+    "id": 56850,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-03-06 20:04:12",
+    "exit_time": "2022-03-11 20:05:08"
+  },
+  {
+    "id": 56849,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-03-06 18:04:41",
+    "exit_time": "2022-03-06 23:03:15"
+  },
+  {
+    "id": 56848,
+    "trailer_id": 14979,
+    "facility_id": 319,
+    "entrance_time": "2022-03-06 16:53:35",
+    "exit_time": "2022-03-08 18:05:16"
+  },
+  {
+    "id": 56847,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-03-06 18:04:35",
+    "exit_time": "2022-03-06 20:04:11"
+  },
+  {
+    "id": 56846,
+    "trailer_id": 14993,
+    "facility_id": 319,
+    "entrance_time": "2022-03-06 02:41:37",
+    "exit_time": "2022-03-22 07:04:23"
+  },
+  {
+    "id": 56845,
+    "trailer_id": 14990,
+    "facility_id": 1,
+    "entrance_time": "2022-03-04 08:00:00",
+    "exit_time": "2022-03-07 17:03:51"
+  },
+  {
+    "id": 56844,
+    "trailer_id": 1086,
+    "facility_id": 846,
+    "entrance_time": "2022-03-05 01:04:50",
+    "exit_time": "2022-03-07 02:02:58"
+  },
+  {
+    "id": 56843,
+    "trailer_id": 14961,
+    "facility_id": 319,
+    "entrance_time": "2022-03-04 22:20:28",
+    "exit_time": "2022-03-05 07:05:19"
+  },
+  {
+    "id": 56842,
+    "trailer_id": 14660,
+    "facility_id": 319,
+    "entrance_time": "2022-03-04 18:21:51",
+    "exit_time": "2022-03-04 21:04:33"
+  },
+  {
+    "id": 56841,
+    "trailer_id": 14907,
+    "facility_id": 319,
+    "entrance_time": "2022-03-04 16:49:16",
+    "exit_time": "2022-03-05 17:03:27"
+  },
+  {
+    "id": 56840,
+    "trailer_id": 14975,
+    "facility_id": 846,
+    "entrance_time": "2022-03-04 06:26:30",
+    "exit_time": "2022-03-10 23:04:03"
+  },
+  {
+    "id": 56839,
+    "trailer_id": 14974,
+    "facility_id": 1,
+    "entrance_time": "2022-03-03 08:00:00",
+    "exit_time": "2022-03-04 18:06:19"
+  },
+  {
+    "id": 56838,
+    "trailer_id": 1086,
+    "facility_id": 846,
+    "entrance_time": "2022-03-04 00:35:04",
+    "exit_time": "2022-03-04 15:04:36"
+  },
+  {
+    "id": 56837,
+    "trailer_id": 14948,
+    "facility_id": 846,
+    "entrance_time": "2022-03-03 20:39:27",
+    "exit_time": "2022-03-04 08:05:37"
+  },
+  {
+    "id": 56836,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-03-03 21:04:25",
+    "exit_time": "2022-03-06 18:04:40"
+  },
+  {
+    "id": 56835,
+    "trailer_id": 14961,
+    "facility_id": 319,
+    "entrance_time": "2022-03-03 08:03:34",
+    "exit_time": "2022-03-04 18:04:47"
+  },
+  {
+    "id": 56834,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-03-03 17:03:18",
+    "exit_time": "2022-03-03 21:04:24"
+  },
+  {
+    "id": 56833,
+    "trailer_id": 14963,
+    "facility_id": 1,
+    "entrance_time": "2022-03-03 14:08:22",
+    "exit_time": "2022-03-04 21:07:59"
+  },
+  {
+    "id": 56832,
+    "trailer_id": 14961,
+    "facility_id": 319,
+    "entrance_time": "2022-03-03 15:13:57",
+    "exit_time": "2022-03-03 20:05:54"
+  },
+  {
+    "id": 56831,
+    "trailer_id": 14967,
+    "facility_id": 1,
+    "entrance_time": "2022-03-03 08:00:00",
+    "exit_time": "2022-03-04 21:07:59"
+  },
+  {
+    "id": 56830,
+    "trailer_id": 14963,
+    "facility_id": 1,
+    "entrance_time": "2022-03-02 08:00:00",
+    "exit_time": "2022-03-03 14:08:21"
+  },
+  {
+    "id": 56829,
+    "trailer_id": 14582,
+    "facility_id": 1,
+    "entrance_time": "2022-03-02 08:00:00",
+    "exit_time": "2022-03-03 17:06:18"
+  },
+  {
+    "id": 56828,
+    "trailer_id": 14962,
+    "facility_id": 1,
+    "entrance_time": "2022-03-02 08:00:00",
+    "exit_time": "2022-03-14 19:08:05"
+  },
+  {
+    "id": 56827,
+    "trailer_id": 14961,
+    "facility_id": 319,
+    "entrance_time": "2022-03-03 02:49:00",
+    "exit_time": "2022-03-03 08:03:33"
+  },
+  {
+    "id": 56826,
+    "trailer_id": 14918,
+    "facility_id": 319,
+    "entrance_time": "2022-03-02 20:25:46",
+    "exit_time": "2022-03-03 04:06:12"
+  },
+  {
+    "id": 56825,
+    "trailer_id": 14942,
+    "facility_id": 1,
+    "entrance_time": "2022-03-02 22:06:18",
+    "exit_time": "2022-03-03 15:06:17"
+  },
+  {
+    "id": 56824,
+    "trailer_id": 14959,
+    "facility_id": 1,
+    "entrance_time": "2022-03-02 08:00:00",
+    "exit_time": "2022-03-03 15:06:17"
+  },
+  {
+    "id": 56823,
+    "trailer_id": 576,
+    "facility_id": 319,
+    "entrance_time": "2022-03-02 18:05:27",
+    "exit_time": "2022-03-08 19:04:46"
+  },
+  {
+    "id": 56822,
+    "trailer_id": 601,
+    "facility_id": 846,
+    "entrance_time": "2022-03-02 17:03:31",
+    "exit_time": "2022-03-09 02:03:47"
+  },
+  {
+    "id": 56821,
+    "trailer_id": 576,
+    "facility_id": 319,
+    "entrance_time": "2022-03-02 18:05:27",
+    "exit_time": "2022-03-02 19:04:56"
+  },
+  {
+    "id": 56820,
+    "trailer_id": 14950,
+    "facility_id": 1,
+    "entrance_time": "2022-03-01 08:00:00",
+    "exit_time": "2022-03-03 14:08:21"
+  },
+  {
+    "id": 56819,
+    "trailer_id": 14948,
+    "facility_id": 846,
+    "entrance_time": "2022-03-02 13:04:23",
+    "exit_time": "2022-03-03 18:06:45"
+  },
+  {
+    "id": 56818,
+    "trailer_id": 14925,
+    "facility_id": 846,
+    "entrance_time": "2022-03-02 00:04:41",
+    "exit_time": "2022-03-02 20:06:08"
+  },
+  {
+    "id": 56817,
+    "trailer_id": 14925,
+    "facility_id": 846,
+    "entrance_time": "2022-03-01 22:04:04",
+    "exit_time": "2022-03-02 00:04:40"
+  },
+  {
+    "id": 56816,
+    "trailer_id": 14917,
+    "facility_id": 319,
+    "entrance_time": "2022-03-01 19:04:50",
+    "exit_time": "2022-03-07 03:03:11"
+  },
+  {
+    "id": 56815,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-03-01 19:04:45",
+    "exit_time": "2022-03-03 17:03:17"
+  },
+  {
+    "id": 56814,
+    "trailer_id": 14918,
+    "facility_id": 319,
+    "entrance_time": "2022-03-01 19:04:45",
+    "exit_time": "2022-03-02 18:05:26"
+  },
+  {
+    "id": 56813,
+    "trailer_id": 576,
+    "facility_id": 319,
+    "entrance_time": "2022-03-01 17:22:57",
+    "exit_time": "2022-03-02 18:05:26"
+  },
+  {
+    "id": 56812,
+    "trailer_id": 14375,
+    "facility_id": 846,
+    "entrance_time": "2022-03-01 17:21:19",
+    "exit_time": "2022-03-09 10:03:57"
+  },
+  {
+    "id": 56811,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-03-01 18:06:09",
+    "exit_time": "2022-03-01 19:04:44"
+  },
+  {
+    "id": 56810,
+    "trailer_id": 14939,
+    "facility_id": 846,
+    "entrance_time": "2022-03-01 12:22:46",
+    "exit_time": "2022-03-03 22:04:29"
+  },
+  {
+    "id": 56809,
+    "trailer_id": 13624,
+    "facility_id": 846,
+    "entrance_time": "2022-03-01 10:56:27",
+    "exit_time": "2022-03-02 18:05:31"
+  },
+  {
+    "id": 56808,
+    "trailer_id": 14942,
+    "facility_id": 1,
+    "entrance_time": "2022-02-28 08:00:00",
+    "exit_time": "2022-03-02 22:06:17"
+  },
+  {
+    "id": 56807,
+    "trailer_id": 1344,
+    "facility_id": 319,
+    "entrance_time": "2022-02-28 22:00:06",
+    "exit_time": "2022-03-11 16:03:25"
+  },
+  {
+    "id": 56806,
+    "trailer_id": 14907,
+    "facility_id": 319,
+    "entrance_time": "2022-03-01 00:33:07",
+    "exit_time": "2022-03-04 15:04:36"
+  },
+  {
+    "id": 56805,
+    "trailer_id": 14926,
+    "facility_id": 846,
+    "entrance_time": "2022-03-01 00:53:47",
+    "exit_time": "2022-03-01 20:05:34"
+  },
+  {
+    "id": 56804,
+    "trailer_id": 14730,
+    "facility_id": 319,
+    "entrance_time": "2022-03-01 00:24:59",
+    "exit_time": "2022-03-06 18:04:34"
+  },
+  {
+    "id": 56803,
+    "trailer_id": 14925,
+    "facility_id": 846,
+    "entrance_time": "2022-02-28 22:41:49",
+    "exit_time": "2022-03-01 22:04:03"
+  },
+  {
+    "id": 56802,
+    "trailer_id": 14924,
+    "facility_id": 846,
+    "entrance_time": "2022-02-28 20:25:13",
+    "exit_time": "2022-03-01 01:04:43"
+  },
+  {
+    "id": 56801,
+    "trailer_id": 6480,
+    "facility_id": 846,
+    "entrance_time": "2022-02-28 18:24:06",
+    "exit_time": "2022-03-08 21:04:50"
+  },
+  {
+    "id": 56800,
+    "trailer_id": 14934,
+    "facility_id": 1,
+    "entrance_time": "2022-02-25 08:00:00",
+    "exit_time": "2022-03-02 17:06:17"
+  },
+  {
+    "id": 56799,
+    "trailer_id": 14933,
+    "facility_id": 1,
+    "entrance_time": "2022-02-25 08:00:00",
+    "exit_time": "2022-03-01 17:06:16"
+  },
+  {
+    "id": 56798,
+    "trailer_id": 14817,
+    "facility_id": 319,
+    "entrance_time": "2022-02-28 17:59:02",
+    "exit_time": "2022-03-01 18:06:08"
+  },
+  {
+    "id": 56797,
+    "trailer_id": 14900,
+    "facility_id": 846,
+    "entrance_time": "2022-02-28 17:41:47",
+    "exit_time": "2022-03-02 00:04:40"
+  },
+  {
+    "id": 56796,
+    "trailer_id": 14922,
+    "facility_id": 846,
+    "entrance_time": "2022-02-28 15:17:47",
+    "exit_time": "2022-03-01 18:06:08"
+  },
+  {
+    "id": 56795,
+    "trailer_id": 14375,
+    "facility_id": 846,
+    "entrance_time": "2022-02-28 10:08:52",
+    "exit_time": "2022-03-01 17:03:20"
+  },
+  {
+    "id": 56794,
+    "trailer_id": 14918,
+    "facility_id": 319,
+    "entrance_time": "2022-02-28 00:53:47",
+    "exit_time": "2022-03-01 19:04:44"
+  },
+  {
+    "id": 56793,
+    "trailer_id": 14917,
+    "facility_id": 319,
+    "entrance_time": "2022-02-27 15:58:18",
+    "exit_time": "2022-03-01 15:03:56"
+  },
+  {
+    "id": 56792,
+    "trailer_id": 14916,
+    "facility_id": 1,
+    "entrance_time": "2022-02-25 08:00:00",
+    "exit_time": "2022-02-28 20:08:21"
+  },
+  {
+    "id": 56791,
+    "trailer_id": 14915,
+    "facility_id": 1,
+    "entrance_time": "2022-02-25 08:00:00",
+    "exit_time": "2022-02-28 17:06:16"
+  },
+  {
+    "id": 56790,
+    "trailer_id": 14914,
+    "facility_id": 1,
+    "entrance_time": "2022-02-25 08:00:00",
+    "exit_time": "2022-03-09 02:10:04"
+  },
+  {
+    "id": 56789,
+    "trailer_id": 14913,
+    "facility_id": 1,
+    "entrance_time": "2022-02-25 08:00:00",
+    "exit_time": "2022-02-28 17:06:16"
+  },
+  {
+    "id": 56788,
+    "trailer_id": 14912,
+    "facility_id": 319,
+    "entrance_time": "2022-02-27 00:06:30",
+    "exit_time": "2022-02-27 17:03:34"
+  },
+  {
+    "id": 56787,
+    "trailer_id": 14912,
+    "facility_id": 319,
+    "entrance_time": "2022-02-26 21:05:40",
+    "exit_time": "2022-02-27 00:06:29"
+  },
+  {
+    "id": 56786,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-02-26 19:03:23",
+    "exit_time": "2022-03-06 18:04:34"
+  },
+  {
+    "id": 56785,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-02-26 17:03:27",
+    "exit_time": "2022-02-26 19:03:22"
+  },
+  {
+    "id": 56784,
+    "trailer_id": 1344,
+    "facility_id": 319,
+    "entrance_time": "2022-02-26 07:30:32",
+    "exit_time": "2022-02-28 16:03:28"
+  },
+  {
+    "id": 56783,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-02-26 04:29:44",
+    "exit_time": "2022-02-26 17:03:26"
+  },
+  {
+    "id": 56782,
+    "trailer_id": 14860,
+    "facility_id": 319,
+    "entrance_time": "2022-02-26 01:04:10",
+    "exit_time": "2022-03-09 19:04:24"
+  },
+  {
+    "id": 56781,
+    "trailer_id": 14860,
+    "facility_id": 319,
+    "entrance_time": "2022-02-25 22:03:41",
+    "exit_time": "2022-02-26 01:04:09"
+  },
+  {
+    "id": 56780,
+    "trailer_id": 2307,
+    "facility_id": 319,
+    "entrance_time": "2022-02-25 18:48:36",
+    "exit_time": "2022-02-26 17:03:26"
+  },
+  {
+    "id": 56779,
+    "trailer_id": 4775,
+    "facility_id": 319,
+    "entrance_time": "2022-02-25 17:07:58",
+    "exit_time": "2022-02-26 15:03:40"
+  },
+  {
+    "id": 56778,
+    "trailer_id": 14907,
+    "facility_id": 319,
+    "entrance_time": "2022-02-25 16:19:55",
+    "exit_time": "2022-02-28 22:03:49"
+  },
+  {
+    "id": 56777,
+    "trailer_id": 14860,
+    "facility_id": 319,
+    "entrance_time": "2022-02-25 02:03:40",
+    "exit_time": "2022-02-25 22:03:40"
+  },
+  {
+    "id": 56776,
+    "trailer_id": 14902,
+    "facility_id": 1,
+    "entrance_time": "2022-02-24 08:00:00",
+    "exit_time": "2022-02-25 18:11:20"
+  },
+  {
+    "id": 56775,
+    "trailer_id": 3819,
+    "facility_id": 846,
+    "entrance_time": "2022-02-24 23:38:18",
+    "exit_time": "2022-02-28 17:03:45"
+  },
+  {
+    "id": 56774,
+    "trailer_id": 14896,
+    "facility_id": 319,
+    "entrance_time": "2022-02-24 21:26:25",
+    "exit_time": "2022-03-01 01:04:41"
+  },
+  {
+    "id": 56773,
+    "trailer_id": 14860,
+    "facility_id": 319,
+    "entrance_time": "2022-02-24 23:04:00",
+    "exit_time": "2022-02-25 02:03:39"
+  },
+  {
+    "id": 56772,
+    "trailer_id": 14900,
+    "facility_id": 846,
+    "entrance_time": "2022-02-24 21:36:32",
+    "exit_time": "2022-02-28 15:04:18"
+  },
+  {
+    "id": 56771,
+    "trailer_id": 14399,
+    "facility_id": 846,
+    "entrance_time": "2022-02-24 18:30:19",
+    "exit_time": "2022-02-25 02:03:28"
+  },
+  {
+    "id": 56770,
+    "trailer_id": 14873,
+    "facility_id": 1,
+    "entrance_time": "2022-02-24 16:12:15",
+    "exit_time": null
+  },
+  {
+    "id": 56769,
+    "trailer_id": 14894,
+    "facility_id": 319,
+    "entrance_time": "2022-02-24 17:37:41",
+    "exit_time": "2022-02-28 20:06:11"
+  },
+  {
+    "id": 56768,
+    "trailer_id": 14882,
+    "facility_id": 846,
+    "entrance_time": "2022-02-24 07:52:41",
+    "exit_time": "2022-02-28 11:05:03"
+  },
+  {
+    "id": 56767,
+    "trailer_id": 14475,
+    "facility_id": 1,
+    "entrance_time": "2022-02-23 08:00:00",
+    "exit_time": "2022-03-09 14:09:29"
+  },
+  {
+    "id": 56766,
+    "trailer_id": 14880,
+    "facility_id": 1,
+    "entrance_time": "2022-02-23 08:00:00",
+    "exit_time": "2022-02-24 12:10:08"
+  },
+  {
+    "id": 56765,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-02-24 04:27:54",
+    "exit_time": "2022-02-25 20:05:51"
+  },
+  {
+    "id": 56764,
+    "trailer_id": 14704,
+    "facility_id": 846,
+    "entrance_time": "2022-02-23 23:55:48",
+    "exit_time": "2022-02-24 15:04:36"
+  },
+  {
+    "id": 56763,
+    "trailer_id": 14882,
+    "facility_id": 846,
+    "entrance_time": "2022-02-23 22:38:17",
+    "exit_time": "2022-02-24 01:03:33"
+  },
+  {
+    "id": 56762,
+    "trailer_id": 14896,
+    "facility_id": 319,
+    "entrance_time": "2022-02-23 22:18:07",
+    "exit_time": "2022-02-24 20:05:39"
+  },
+  {
+    "id": 56761,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-02-23 22:03:41",
+    "exit_time": "2022-02-24 00:04:40"
+  },
+  {
+    "id": 56760,
+    "trailer_id": 14853,
+    "facility_id": 319,
+    "entrance_time": "2022-02-23 19:21:57",
+    "exit_time": "2022-02-23 23:04:31"
+  },
+  {
+    "id": 56759,
+    "trailer_id": 1086,
+    "facility_id": 846,
+    "entrance_time": "2022-02-23 17:53:33",
+    "exit_time": "2022-02-24 22:04:11"
+  },
+  {
+    "id": 56758,
+    "trailer_id": 1874,
+    "facility_id": 846,
+    "entrance_time": "2022-02-23 12:08:17",
+    "exit_time": "2022-02-24 01:03:33"
+  },
+  {
+    "id": 56757,
+    "trailer_id": 1874,
+    "facility_id": 846,
+    "entrance_time": "2022-02-23 12:11:00",
+    "exit_time": "2022-02-23 14:08:44"
+  },
+  {
+    "id": 56756,
+    "trailer_id": 1874,
+    "facility_id": 319,
+    "entrance_time": "2022-02-23 10:35:28",
+    "exit_time": "2022-02-23 12:08:16"
+  },
+  {
+    "id": 56755,
+    "trailer_id": 458,
+    "facility_id": 319,
+    "entrance_time": "2022-02-22 21:57:09",
+    "exit_time": "2022-03-07 16:03:54"
+  },
+  {
+    "id": 56754,
+    "trailer_id": 14456,
+    "facility_id": 1,
+    "entrance_time": "2022-02-23 08:00:00",
+    "exit_time": "2022-03-02 19:06:17"
+  },
+  {
+    "id": 56753,
+    "trailer_id": 14765,
+    "facility_id": 1,
+    "entrance_time": "2022-02-23 09:07:21",
+    "exit_time": "2022-03-03 06:06:17"
+  },
+  {
+    "id": 56752,
+    "trailer_id": 14891,
+    "facility_id": 1,
+    "entrance_time": "2022-02-23 08:00:00",
+    "exit_time": "2022-02-24 16:12:14"
+  },
+  {
+    "id": 56751,
+    "trailer_id": 14880,
+    "facility_id": 1,
+    "entrance_time": "2022-02-23 08:00:00",
+    "exit_time": "2022-02-24 06:07:21"
+  },
+  {
+    "id": 56750,
+    "trailer_id": 13630,
+    "facility_id": 319,
+    "entrance_time": "2022-02-22 19:29:37",
+    "exit_time": "2022-03-14 18:04:40"
+  },
+  {
+    "id": 56749,
+    "trailer_id": 5912,
+    "facility_id": 319,
+    "entrance_time": "2022-02-22 21:04:27",
+    "exit_time": "2022-03-06 09:02:29"
+  },
+  {
+    "id": 56748,
+    "trailer_id": 7339,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 20:05:14",
+    "exit_time": "2022-02-23 00:04:01"
+  },
+  {
+    "id": 56747,
+    "trailer_id": 14868,
+    "facility_id": 319,
+    "entrance_time": "2022-02-22 20:04:54",
+    "exit_time": "2022-02-23 22:03:40"
+  },
+  {
+    "id": 56746,
+    "trailer_id": 14884,
+    "facility_id": 1,
+    "entrance_time": "2022-02-20 08:00:00",
+    "exit_time": "2022-03-02 17:06:17"
+  },
+  {
+    "id": 56745,
+    "trailer_id": 14883,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 18:52:54",
+    "exit_time": "2022-03-10 21:05:47"
+  },
+  {
+    "id": 56744,
+    "trailer_id": 2452,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 17:07:13",
+    "exit_time": "2022-03-21 19:06:34"
+  },
+  {
+    "id": 56743,
+    "trailer_id": 14370,
+    "facility_id": 319,
+    "entrance_time": "2022-02-22 18:22:41",
+    "exit_time": "2022-02-23 15:04:35"
+  },
+  {
+    "id": 56742,
+    "trailer_id": 14870,
+    "facility_id": 319,
+    "entrance_time": "2022-02-22 19:04:11",
+    "exit_time": "2022-03-07 19:04:19"
+  },
+  {
+    "id": 56741,
+    "trailer_id": 14399,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 15:31:48",
+    "exit_time": "2022-02-24 15:04:36"
+  },
+  {
+    "id": 56740,
+    "trailer_id": 14878,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 10:38:07",
+    "exit_time": "2022-03-12 01:04:55"
+  },
+  {
+    "id": 56739,
+    "trailer_id": 14326,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 02:37:12",
+    "exit_time": "2022-02-22 19:04:18"
+  },
+  {
+    "id": 56738,
+    "trailer_id": 14370,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 01:55:33",
+    "exit_time": "2022-02-22 15:05:05"
+  },
+  {
+    "id": 56737,
+    "trailer_id": 14875,
+    "facility_id": 846,
+    "entrance_time": "2022-02-22 00:38:52",
+    "exit_time": "2022-02-22 19:04:18"
+  },
+  {
+    "id": 56736,
+    "trailer_id": 14876,
+    "facility_id": 1,
+    "entrance_time": "2022-02-21 08:00:00",
+    "exit_time": "2022-02-23 09:07:20"
+  },
+  {
+    "id": 56735,
+    "trailer_id": 13630,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 22:32:24",
+    "exit_time": "2022-02-22 17:03:16"
+  },
+  {
+    "id": 56734,
+    "trailer_id": 1640,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 17:55:59",
+    "exit_time": "2022-02-22 04:05:45"
+  },
+  {
+    "id": 56733,
+    "trailer_id": 13715,
+    "facility_id": 846,
+    "entrance_time": "2022-02-19 04:33:21",
+    "exit_time": "2022-02-22 03:02:51"
+  },
+  {
+    "id": 56732,
+    "trailer_id": 5912,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 21:56:21",
+    "exit_time": "2022-02-22 21:04:26"
+  },
+  {
+    "id": 56731,
+    "trailer_id": 14802,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 17:55:37",
+    "exit_time": "2022-02-25 08:04:08"
+  },
+  {
+    "id": 56730,
+    "trailer_id": 3806,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 18:04:52",
+    "exit_time": "2022-02-22 18:04:57"
+  },
+  {
+    "id": 56729,
+    "trailer_id": 14873,
+    "facility_id": 1,
+    "entrance_time": "2022-02-19 08:00:00",
+    "exit_time": "2022-02-24 16:12:14"
+  },
+  {
+    "id": 56728,
+    "trailer_id": 14872,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 16:03:15",
+    "exit_time": "2022-02-25 20:05:51"
+  },
+  {
+    "id": 56727,
+    "trailer_id": 7339,
+    "facility_id": 846,
+    "entrance_time": "2022-02-21 16:12:24",
+    "exit_time": "2022-02-22 20:05:13"
+  },
+  {
+    "id": 56726,
+    "trailer_id": 14870,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 14:21:15",
+    "exit_time": "2022-02-22 19:04:10"
+  },
+  {
+    "id": 56725,
+    "trailer_id": 2307,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 02:29:53",
+    "exit_time": "2022-02-25 16:03:19"
+  },
+  {
+    "id": 56724,
+    "trailer_id": 14399,
+    "facility_id": 846,
+    "entrance_time": "2022-02-21 01:45:15",
+    "exit_time": "2022-02-22 15:05:05"
+  },
+  {
+    "id": 56723,
+    "trailer_id": 14868,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 00:43:50",
+    "exit_time": "2022-02-22 20:04:53"
+  },
+  {
+    "id": 56722,
+    "trailer_id": 12488,
+    "facility_id": 319,
+    "entrance_time": "2022-02-21 00:04:17",
+    "exit_time": "2022-02-21 02:03:17"
+  },
+  {
+    "id": 56721,
+    "trailer_id": 12488,
+    "facility_id": 319,
+    "entrance_time": "2022-02-20 20:04:19",
+    "exit_time": "2022-02-21 00:04:16"
+  },
+  {
+    "id": 56720,
+    "trailer_id": 14864,
+    "facility_id": 846,
+    "entrance_time": "2022-02-20 09:54:26",
+    "exit_time": "2022-03-02 22:04:01"
+  },
+  {
+    "id": 56719,
+    "trailer_id": 14863,
+    "facility_id": 319,
+    "entrance_time": "2022-02-20 07:47:55",
+    "exit_time": "2022-02-23 01:04:17"
+  },
+  {
+    "id": 56718,
+    "trailer_id": 1874,
+    "facility_id": 846,
+    "entrance_time": "2022-02-19 21:19:35",
+    "exit_time": "2022-02-21 20:04:54"
+  },
+  {
+    "id": 56717,
+    "trailer_id": 12488,
+    "facility_id": 319,
+    "entrance_time": "2022-02-19 18:09:40",
+    "exit_time": "2022-02-20 20:04:18"
+  },
+  {
+    "id": 56716,
+    "trailer_id": 14862,
+    "facility_id": 319,
+    "entrance_time": "2022-02-19 15:50:36",
+    "exit_time": "2022-02-23 22:03:40"
+  },
+  {
+    "id": 56715,
+    "trailer_id": 14861,
+    "facility_id": 319,
+    "entrance_time": "2022-02-18 20:23:21",
+    "exit_time": "2022-02-19 19:03:40"
+  },
+  {
+    "id": 56714,
+    "trailer_id": 14860,
+    "facility_id": 319,
+    "entrance_time": "2022-02-19 09:14:19",
+    "exit_time": "2022-02-24 23:03:59"
+  },
+  {
+    "id": 56713,
+    "trailer_id": 14845,
+    "facility_id": 846,
+    "entrance_time": "2022-02-19 08:08:30",
+    "exit_time": "2022-02-19 22:03:18"
+  },
+  {
+    "id": 56712,
+    "trailer_id": 14859,
+    "facility_id": 319,
+    "entrance_time": "2022-02-19 05:38:19",
+    "exit_time": "2022-02-23 20:05:08"
+  },
+  {
+    "id": 56711,
+    "trailer_id": 14858,
+    "facility_id": 846,
+    "entrance_time": "2022-02-19 03:54:40",
+    "exit_time": "2022-02-21 23:03:46"
+  },
+  {
+    "id": 56710,
+    "trailer_id": 14857,
+    "facility_id": 846,
+    "entrance_time": "2022-02-19 02:28:16",
+    "exit_time": "2022-02-22 02:02:47"
+  },
+  {
+    "id": 56709,
+    "trailer_id": 14730,
+    "facility_id": 846,
+    "entrance_time": "2022-02-19 00:33:50",
+    "exit_time": "2022-02-22 03:02:51"
+  },
+  {
+    "id": 56708,
+    "trailer_id": 14855,
+    "facility_id": 319,
+    "entrance_time": "2022-02-19 00:43:24",
+    "exit_time": "2022-02-21 03:02:51"
+  },
+  {
+    "id": 56707,
+    "trailer_id": 13877,
+    "facility_id": 319,
+    "entrance_time": "2022-02-19 04:05:30",
+    "exit_time": "2022-02-21 17:04:10"
+  },
+  {
+    "id": 56706,
+    "trailer_id": 14109,
+    "facility_id": 319,
+    "entrance_time": "2022-02-18 17:59:25",
+    "exit_time": "2022-02-19 17:03:24"
+  },
+  {
+    "id": 56705,
+    "trailer_id": 13132,
+    "facility_id": 319,
+    "entrance_time": "2022-02-18 22:04:13",
+    "exit_time": "2022-02-23 17:03:21"
+  },
+  {
+    "id": 56704,
+    "trailer_id": 14853,
+    "facility_id": 319,
+    "entrance_time": "2022-02-18 20:21:47",
+    "exit_time": "2022-02-23 15:04:35"
+  },
+  {
+    "id": 56703,
+    "trailer_id": 13132,
+    "facility_id": 319,
+    "entrance_time": "2022-02-18 19:04:23",
+    "exit_time": "2022-02-18 22:04:12"
+  },
+  {
+    "id": 56702,
+    "trailer_id": 14826,
+    "facility_id": 319,
+    "entrance_time": "2022-02-18 18:05:06",
+    "exit_time": "2022-02-18 21:03:40"
+  },
+  {
+    "id": 56701,
+    "trailer_id": 1097,
+    "facility_id": 846,
+    "entrance_time": "2022-02-16 03:22:37",
+    "exit_time": "2022-02-19 19:03:40"
+  },
+  {
+    "id": 56700,
+    "trailer_id": 14826,
+    "facility_id": 319,
+    "entrance_time": "2022-02-18 15:04:01",
+    "exit_time": "2022-02-18 18:05:05"
+  },
+  {
+    "id": 56699,
+    "trailer_id": 14848,
+    "facility_id": 1,
+    "entrance_time": "2022-02-17 08:00:00",
+    "exit_time": "2022-02-18 14:07:16"
+  },
+  {
+    "id": 56698,
+    "trailer_id": 14807,
+    "facility_id": 846,
+    "entrance_time": "2022-02-18 01:53:58",
+    "exit_time": "2022-02-19 05:02:42"
+  },
+  {
+    "id": 56697,
+    "trailer_id": 14730,
+    "facility_id": 846,
+    "entrance_time": "2022-02-18 00:04:17",
+    "exit_time": "2022-02-18 21:03:37"
+  },
+  {
+    "id": 56696,
+    "trailer_id": 4775,
+    "facility_id": 319,
+    "entrance_time": "2022-02-17 22:37:34",
+    "exit_time": "2022-02-25 15:04:08"
+  },
+  {
+    "id": 56695,
+    "trailer_id": 523,
+    "facility_id": 846,
+    "entrance_time": "2022-02-17 20:04:42",
+    "exit_time": "2022-02-18 22:04:06"
+  },
+  {
+    "id": 56694,
+    "trailer_id": 14670,
+    "facility_id": 1,
+    "entrance_time": "2022-02-17 08:00:00",
+    "exit_time": "2022-03-02 21:12:26"
+  },
+  {
+    "id": 56693,
+    "trailer_id": 5146,
+    "facility_id": 319,
+    "entrance_time": "2022-02-17 20:06:46",
+    "exit_time": "2022-02-17 22:03:48"
+  },
+  {
+    "id": 56692,
+    "trailer_id": 14845,
+    "facility_id": 846,
+    "entrance_time": "2022-02-17 17:46:16",
+    "exit_time": "2022-02-18 15:03:57"
+  },
+  {
+    "id": 56691,
+    "trailer_id": 14844,
+    "facility_id": 319,
+    "entrance_time": "2022-02-17 16:57:37",
+    "exit_time": "2022-03-18 15:03:47"
+  },
+  {
+    "id": 56690,
+    "trailer_id": 14813,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 22:02:44",
+    "exit_time": "2022-02-20 09:02:27"
+  },
+  {
+    "id": 56689,
+    "trailer_id": 14842,
+    "facility_id": 319,
+    "entrance_time": "2021-11-25 09:35:46",
+    "exit_time": null
+  },
+  {
+    "id": 56688,
+    "trailer_id": 14841,
+    "facility_id": 1,
+    "entrance_time": "2021-11-25 13:43:25",
+    "exit_time": null
+  },
+  {
+    "id": 56687,
+    "trailer_id": 14840,
+    "facility_id": 319,
+    "entrance_time": "2021-11-25 12:02:07",
+    "exit_time": null
+  },
+  {
+    "id": 56686,
+    "trailer_id": 14839,
+    "facility_id": 319,
+    "entrance_time": "2021-11-25 12:16:18",
+    "exit_time": null
+  },
+  {
+    "id": 56685,
+    "trailer_id": 14838,
+    "facility_id": 319,
+    "entrance_time": "2021-11-25 10:35:28",
+    "exit_time": null
+  },
+  {
+    "id": 56684,
+    "trailer_id": 14837,
+    "facility_id": 1,
+    "entrance_time": "2021-11-25 09:45:08",
+    "exit_time": null
+  },
+  {
+    "id": 56680,
+    "trailer_id": 14820,
+    "facility_id": 319,
+    "entrance_time": "2022-02-17 16:48:51",
+    "exit_time": "2022-02-17 19:04:15"
+  },
+  {
+    "id": 56679,
+    "trailer_id": 523,
+    "facility_id": 846,
+    "entrance_time": "2022-02-17 14:45:04",
+    "exit_time": "2022-02-17 20:04:41"
+  },
+  {
+    "id": 56678,
+    "trailer_id": 14824,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 23:31:34",
+    "exit_time": "2022-02-17 17:03:14"
+  },
+  {
+    "id": 56677,
+    "trailer_id": 14825,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 22:19:34",
+    "exit_time": "2022-02-17 16:03:11"
+  },
+  {
+    "id": 56676,
+    "trailer_id": 14832,
+    "facility_id": 1,
+    "entrance_time": "2022-02-16 08:00:00",
+    "exit_time": "2022-02-17 12:09:19"
+  },
+  {
+    "id": 56675,
+    "trailer_id": 14831,
+    "facility_id": 1,
+    "entrance_time": "2022-02-16 08:00:00",
+    "exit_time": "2022-02-17 23:07:16"
+  },
+  {
+    "id": 56674,
+    "trailer_id": 14830,
+    "facility_id": 1,
+    "entrance_time": "2022-02-16 08:00:00",
+    "exit_time": "2022-02-19 02:11:26"
+  },
+  {
+    "id": 56673,
+    "trailer_id": 14827,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 18:41:31",
+    "exit_time": "2022-02-17 08:03:07"
+  },
+  {
+    "id": 56672,
+    "trailer_id": 14829,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 20:06:39",
+    "exit_time": "2022-02-16 22:03:06"
+  },
+  {
+    "id": 56671,
+    "trailer_id": 14826,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 19:44:23",
+    "exit_time": "2022-02-18 15:04:00"
+  },
+  {
+    "id": 56670,
+    "trailer_id": 1265,
+    "facility_id": 846,
+    "entrance_time": "2022-02-16 17:49:04",
+    "exit_time": "2022-02-18 14:05:25"
+  },
+  {
+    "id": 56669,
+    "trailer_id": 14821,
+    "facility_id": 1,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-03-18 23:02:02"
+  },
+  {
+    "id": 56668,
+    "trailer_id": 14820,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 14:36:42",
+    "exit_time": "2022-02-17 14:06:02"
+  },
+  {
+    "id": 56667,
+    "trailer_id": 14109,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 13:01:25",
+    "exit_time": "2022-02-18 16:03:29"
+  },
+  {
+    "id": 56666,
+    "trailer_id": 14817,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 08:46:54",
+    "exit_time": "2022-02-28 17:03:47"
+  },
+  {
+    "id": 56665,
+    "trailer_id": 14816,
+    "facility_id": 1,
+    "entrance_time": "2022-02-16 08:00:00",
+    "exit_time": "2022-02-17 04:07:15"
+  },
+  {
+    "id": 56664,
+    "trailer_id": 14624,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 08:02:38",
+    "exit_time": "2022-02-16 10:03:16"
+  },
+  {
+    "id": 56663,
+    "trailer_id": 14606,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 06:07:26",
+    "exit_time": "2022-02-16 16:03:05"
+  },
+  {
+    "id": 56662,
+    "trailer_id": 1097,
+    "facility_id": 846,
+    "entrance_time": "2022-02-16 03:25:04",
+    "exit_time": "2022-02-18 14:05:25"
+  },
+  {
+    "id": 56661,
+    "trailer_id": 3819,
+    "facility_id": 846,
+    "entrance_time": "2022-02-16 01:50:38",
+    "exit_time": "2022-02-17 22:03:37"
+  },
+  {
+    "id": 56660,
+    "trailer_id": 14808,
+    "facility_id": 319,
+    "entrance_time": "2022-02-16 00:07:26",
+    "exit_time": "2022-02-16 18:04:40"
+  },
+  {
+    "id": 56659,
+    "trailer_id": 14538,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 22:43:08",
+    "exit_time": "2022-02-18 21:03:40"
+  },
+  {
+    "id": 56658,
+    "trailer_id": 14682,
+    "facility_id": 846,
+    "entrance_time": "2022-02-15 23:22:06",
+    "exit_time": "2022-02-16 19:03:45"
+  },
+  {
+    "id": 56657,
+    "trailer_id": 14813,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 22:03:06",
+    "exit_time": "2022-02-17 17:03:14"
+  },
+  {
+    "id": 56656,
+    "trailer_id": 14744,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 22:19:49",
+    "exit_time": "2022-02-16 00:03:52"
+  },
+  {
+    "id": 56655,
+    "trailer_id": 14811,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 20:36:29",
+    "exit_time": "2022-02-16 23:03:11"
+  },
+  {
+    "id": 56654,
+    "trailer_id": 14810,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 19:41:06",
+    "exit_time": "2022-02-17 20:04:27"
+  },
+  {
+    "id": 56653,
+    "trailer_id": 14624,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 18:52:09",
+    "exit_time": "2022-02-15 23:03:00"
+  },
+  {
+    "id": 56652,
+    "trailer_id": 14606,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 17:36:49",
+    "exit_time": "2022-02-15 23:03:00"
+  },
+  {
+    "id": 56651,
+    "trailer_id": 5573,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 00:52:09",
+    "exit_time": "2022-02-15 22:02:52"
+  },
+  {
+    "id": 56650,
+    "trailer_id": 14793,
+    "facility_id": 319,
+    "entrance_time": "2022-02-14 23:08:01",
+    "exit_time": "2022-02-15 21:04:09"
+  },
+  {
+    "id": 56649,
+    "trailer_id": 14807,
+    "facility_id": 846,
+    "entrance_time": "2022-02-15 10:48:18",
+    "exit_time": "2022-02-17 21:04:17"
+  },
+  {
+    "id": 56648,
+    "trailer_id": 8270,
+    "facility_id": 319,
+    "entrance_time": "2022-02-15 01:38:30",
+    "exit_time": "2022-02-16 14:04:57"
+  },
+  {
+    "id": 56647,
+    "trailer_id": 14708,
+    "facility_id": 319,
+    "entrance_time": "2022-02-14 23:48:59",
+    "exit_time": "2022-02-16 00:03:52"
+  },
+  {
+    "id": 56646,
+    "trailer_id": 14794,
+    "facility_id": 319,
+    "entrance_time": "2022-02-14 23:22:05",
+    "exit_time": "2022-02-16 01:02:55"
+  },
+  {
+    "id": 56645,
+    "trailer_id": 2127,
+    "facility_id": 319,
+    "entrance_time": "2022-02-14 23:07:41",
+    "exit_time": "2022-02-16 00:03:52"
+  },
+  {
+    "id": 56644,
+    "trailer_id": 2847,
+    "facility_id": 319,
+    "entrance_time": "2022-02-14 19:12:17",
+    "exit_time": "2022-02-15 18:04:31"
+  },
+  {
+    "id": 56643,
+    "trailer_id": 14805,
+    "facility_id": 846,
+    "entrance_time": "2022-02-14 00:29:06",
+    "exit_time": "2022-02-16 19:03:45"
+  },
+  {
+    "id": 56642,
+    "trailer_id": 14789,
+    "facility_id": 846,
+    "entrance_time": "2022-02-13 02:19:10",
+    "exit_time": "2022-02-15 01:02:52"
+  },
+  {
+    "id": 56641,
+    "trailer_id": 14802,
+    "facility_id": 319,
+    "entrance_time": "2022-02-14 06:57:53",
+    "exit_time": "2022-02-19 06:04:26"
+  },
+  {
+    "id": 56640,
+    "trailer_id": 14713,
+    "facility_id": 319,
+    "entrance_time": "2022-02-14 23:36:26",
+    "exit_time": "2022-02-15 01:02:52"
+  },
+  {
+    "id": 56639,
+    "trailer_id": 286,
+    "facility_id": 319,
+    "entrance_time": "2022-02-13 08:00:29",
+    "exit_time": "2022-02-16 22:03:06"
+  },
+  {
+    "id": 56638,
+    "trailer_id": 14801,
+    "facility_id": 319,
+    "entrance_time": "2022-02-13 02:33:31",
+    "exit_time": "2022-02-17 19:04:15"
+  },
+  {
+    "id": 56637,
+    "trailer_id": 14774,
+    "facility_id": 319,
+    "entrance_time": "2022-02-10 23:36:26",
+    "exit_time": "2022-02-15 00:38:10"
+  },
+  {
+    "id": 56636,
+    "trailer_id": 14360,
+    "facility_id": 1,
+    "entrance_time": "2022-02-12 08:00:00",
+    "exit_time": "2022-02-14 20:06:30"
+  },
+  {
+    "id": 56635,
+    "trailer_id": 14766,
+    "facility_id": 1,
+    "entrance_time": "2022-02-12 08:00:00",
+    "exit_time": "2022-02-14 17:04:24"
+  },
+  {
+    "id": 56634,
+    "trailer_id": 14670,
+    "facility_id": 1,
+    "entrance_time": "2022-02-12 08:00:00",
+    "exit_time": "2022-02-17 04:07:15"
+  },
+  {
+    "id": 56633,
+    "trailer_id": 14786,
+    "facility_id": 1,
+    "entrance_time": "2022-02-11 08:00:00",
+    "exit_time": "2022-02-14 16:08:33"
+  },
+  {
+    "id": 56632,
+    "trailer_id": 14780,
+    "facility_id": 846,
+    "entrance_time": "2022-02-10 18:21:14",
+    "exit_time": "2022-02-15 00:05:22"
+  },
+  {
+    "id": 56631,
+    "trailer_id": 14754,
+    "facility_id": 1,
+    "entrance_time": "2022-02-10 16:08:54",
+    "exit_time": "2022-02-14 17:04:24"
+  },
+  {
+    "id": 56630,
+    "trailer_id": 14251,
+    "facility_id": 1,
+    "entrance_time": "2022-02-10 08:00:00",
+    "exit_time": "2022-02-11 19:04:21"
+  },
+  {
+    "id": 56629,
+    "trailer_id": 14713,
+    "facility_id": 319,
+    "entrance_time": "2022-02-10 16:04:31",
+    "exit_time": "2022-02-14 23:36:25"
+  },
+  {
+    "id": 56628,
+    "trailer_id": 14767,
+    "facility_id": 1,
+    "entrance_time": "2022-02-09 08:00:00",
+    "exit_time": "2022-02-11 02:16:24"
+  },
+  {
+    "id": 56627,
+    "trailer_id": 14559,
+    "facility_id": 1,
+    "entrance_time": "2022-02-10 02:17:15",
+    "exit_time": "2022-02-10 15:04:31"
+  },
+  {
+    "id": 56626,
+    "trailer_id": 14754,
+    "facility_id": 1,
+    "entrance_time": "2022-02-09 17:12:45",
+    "exit_time": "2022-02-10 16:08:53"
+  },
+  {
+    "id": 56625,
+    "trailer_id": 14570,
+    "facility_id": 1,
+    "entrance_time": "2022-02-09 17:12:45",
+    "exit_time": "2022-02-10 16:08:53"
+  },
+  {
+    "id": 56624,
+    "trailer_id": 14766,
+    "facility_id": 1,
+    "entrance_time": "2022-02-09 08:00:00",
+    "exit_time": "2022-02-11 14:13:05"
+  },
+  {
+    "id": 56623,
+    "trailer_id": 14761,
+    "facility_id": 846,
+    "entrance_time": "2022-02-10 00:33:38",
+    "exit_time": "2022-02-10 23:03:56"
+  },
+  {
+    "id": 56622,
+    "trailer_id": 13132,
+    "facility_id": 319,
+    "entrance_time": "2022-02-10 01:04:43",
+    "exit_time": "2022-02-18 19:04:22"
+  },
+  {
+    "id": 56621,
+    "trailer_id": 14672,
+    "facility_id": 846,
+    "entrance_time": "2022-02-09 23:18:12",
+    "exit_time": "2022-02-10 23:03:56"
+  },
+  {
+    "id": 56620,
+    "trailer_id": 14760,
+    "facility_id": 319,
+    "entrance_time": "2022-02-09 22:00:57",
+    "exit_time": "2022-02-11 07:04:20"
+  },
+  {
+    "id": 56619,
+    "trailer_id": 14765,
+    "facility_id": 1,
+    "entrance_time": "2022-02-07 08:00:00",
+    "exit_time": "2022-02-23 09:07:20"
+  },
+  {
+    "id": 56618,
+    "trailer_id": 13132,
+    "facility_id": 319,
+    "entrance_time": "2022-02-09 21:06:04",
+    "exit_time": "2022-02-10 01:04:42"
+  },
+  {
+    "id": 56617,
+    "trailer_id": 13248,
+    "facility_id": 319,
+    "entrance_time": "2022-02-09 20:20:23",
+    "exit_time": "2022-02-10 04:07:02"
+  },
+  {
+    "id": 56616,
+    "trailer_id": 2065,
+    "facility_id": 846,
+    "entrance_time": "2022-02-09 17:53:15",
+    "exit_time": "2022-02-11 07:04:25"
+  },
+  {
+    "id": 56615,
+    "trailer_id": 14736,
+    "facility_id": 319,
+    "entrance_time": "2022-02-09 16:04:38",
+    "exit_time": "2022-02-15 00:38:10"
+  },
+  {
+    "id": 56614,
+    "trailer_id": 14475,
+    "facility_id": 1,
+    "entrance_time": "2022-02-07 17:14:37",
+    "exit_time": "2022-02-21 23:07:19"
+  },
+  {
+    "id": 56613,
+    "trailer_id": 14713,
+    "facility_id": 319,
+    "entrance_time": "2022-02-09 07:05:10",
+    "exit_time": "2022-02-10 16:04:30"
+  },
+  {
+    "id": 56612,
+    "trailer_id": 14713,
+    "facility_id": 319,
+    "entrance_time": "2022-02-09 06:04:53",
+    "exit_time": "2022-02-09 07:05:09"
+  },
+  {
+    "id": 56611,
+    "trailer_id": 14705,
+    "facility_id": 319,
+    "entrance_time": "2022-02-09 02:05:50",
+    "exit_time": "2022-02-09 04:06:44"
+  },
+  {
+    "id": 56610,
+    "trailer_id": 14754,
+    "facility_id": 1,
+    "entrance_time": "2022-02-08 08:00:00",
+    "exit_time": "2022-02-09 17:12:44"
+  },
+  {
+    "id": 56609,
+    "trailer_id": 14753,
+    "facility_id": 1,
+    "entrance_time": "2022-02-08 08:00:00",
+    "exit_time": "2022-02-11 19:04:21"
+  },
+  {
+    "id": 56608,
+    "trailer_id": 14456,
+    "facility_id": 1,
+    "entrance_time": "2022-02-08 08:00:00",
+    "exit_time": "2022-02-22 19:07:19"
+  },
+  {
+    "id": 56607,
+    "trailer_id": 14732,
+    "facility_id": 319,
+    "entrance_time": "2022-02-08 22:04:41",
+    "exit_time": "2022-02-15 01:02:52"
+  },
+  {
+    "id": 56606,
+    "trailer_id": 6309,
+    "facility_id": 319,
+    "entrance_time": "2022-02-08 22:04:41",
+    "exit_time": "2022-02-15 19:03:12"
+  },
+  {
+    "id": 56605,
+    "trailer_id": 14736,
+    "facility_id": 319,
+    "entrance_time": "2022-02-08 19:05:11",
+    "exit_time": "2022-02-09 16:04:37"
+  },
+  {
+    "id": 56604,
+    "trailer_id": 14582,
+    "facility_id": 1,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-02-28 17:06:16"
+  },
+  {
+    "id": 56603,
+    "trailer_id": 13839,
+    "facility_id": 846,
+    "entrance_time": "2022-02-08 20:26:14",
+    "exit_time": "2022-02-10 00:03:44"
+  },
+  {
+    "id": 56602,
+    "trailer_id": 14731,
+    "facility_id": 846,
+    "entrance_time": "2022-02-08 18:39:21",
+    "exit_time": "2022-02-15 00:05:22"
+  },
+  {
+    "id": 56601,
+    "trailer_id": 14705,
+    "facility_id": 319,
+    "entrance_time": "2022-02-08 20:05:48",
+    "exit_time": "2022-02-09 02:05:49"
+  },
+  {
+    "id": 56600,
+    "trailer_id": 14570,
+    "facility_id": 1,
+    "entrance_time": "2022-02-08 08:00:00",
+    "exit_time": "2022-02-09 17:12:44"
+  },
+  {
+    "id": 56599,
+    "trailer_id": 13132,
+    "facility_id": 319,
+    "entrance_time": "2022-02-08 17:50:43",
+    "exit_time": "2022-02-09 21:06:03"
+  },
+  {
+    "id": 56598,
+    "trailer_id": 1800,
+    "facility_id": 319,
+    "entrance_time": "2022-02-06 22:39:02",
+    "exit_time": "2022-02-15 00:38:10"
+  },
+  {
+    "id": 56597,
+    "trailer_id": 2065,
+    "facility_id": 846,
+    "entrance_time": "2022-02-08 17:04:39",
+    "exit_time": "2022-02-09 17:04:42"
+  },
+  {
+    "id": 56596,
+    "trailer_id": 14744,
+    "facility_id": 319,
+    "entrance_time": "2022-02-08 15:10:53",
+    "exit_time": "2022-02-10 14:09:25"
+  },
+  {
+    "id": 56595,
+    "trailer_id": 14746,
+    "facility_id": 1,
+    "entrance_time": "2022-02-07 08:00:00",
+    "exit_time": "2022-02-08 17:12:45"
+  },
+  {
+    "id": 56594,
+    "trailer_id": 13538,
+    "facility_id": 319,
+    "entrance_time": "2022-02-08 09:05:27",
+    "exit_time": "2022-02-08 19:05:10"
+  },
+  {
+    "id": 56593,
+    "trailer_id": 14744,
+    "facility_id": 319,
+    "entrance_time": "2022-02-08 03:04:37",
+    "exit_time": "2022-02-08 13:12:08"
+  },
+  {
+    "id": 56592,
+    "trailer_id": 8246,
+    "facility_id": 846,
+    "entrance_time": "2022-02-07 22:45:33",
+    "exit_time": "2022-02-08 21:06:00"
+  },
+  {
+    "id": 56591,
+    "trailer_id": 14743,
+    "facility_id": 1,
+    "entrance_time": "2022-02-03 08:00:00",
+    "exit_time": "2022-02-08 15:12:45"
+  },
+  {
+    "id": 56590,
+    "trailer_id": 2065,
+    "facility_id": 846,
+    "entrance_time": "2022-02-07 21:11:31",
+    "exit_time": "2022-02-08 17:04:38"
+  },
+  {
+    "id": 56589,
+    "trailer_id": 14086,
+    "facility_id": 319,
+    "entrance_time": "2022-02-07 18:57:19",
+    "exit_time": "2022-02-08 20:05:47"
+  },
+  {
+    "id": 56588,
+    "trailer_id": 14713,
+    "facility_id": 319,
+    "entrance_time": "2022-02-07 21:05:01",
+    "exit_time": "2022-02-09 06:04:52"
+  },
+  {
+    "id": 56587,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-02-07 19:04:42",
+    "exit_time": "2022-02-15 00:05:22"
+  },
+  {
+    "id": 56586,
+    "trailer_id": 14713,
+    "facility_id": 319,
+    "entrance_time": "2022-02-07 18:05:20",
+    "exit_time": "2022-02-07 21:05:00"
+  },
+  {
+    "id": 56585,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-02-07 17:04:44",
+    "exit_time": "2022-02-07 19:04:41"
+  },
+  {
+    "id": 56584,
+    "trailer_id": 14713,
+    "facility_id": 319,
+    "entrance_time": "2022-02-07 15:21:05",
+    "exit_time": "2022-02-07 18:05:19"
+  },
+  {
+    "id": 56583,
+    "trailer_id": 383,
+    "facility_id": 319,
+    "entrance_time": "2022-02-07 12:31:02",
+    "exit_time": "2022-02-07 19:04:41"
+  },
+  {
+    "id": 56582,
+    "trailer_id": 6309,
+    "facility_id": 319,
+    "entrance_time": "2022-02-07 04:35:09",
+    "exit_time": "2022-02-08 22:04:40"
+  },
+  {
+    "id": 56581,
+    "trailer_id": 14736,
+    "facility_id": 319,
+    "entrance_time": "2022-02-07 01:08:31",
+    "exit_time": "2022-02-08 19:05:10"
+  },
+  {
+    "id": 56580,
+    "trailer_id": 1800,
+    "facility_id": 319,
+    "entrance_time": "2022-02-06 22:40:07",
+    "exit_time": "2022-02-08 17:04:37"
+  },
+  {
+    "id": 56579,
+    "trailer_id": 14732,
+    "facility_id": 319,
+    "entrance_time": "2022-02-06 11:13:19",
+    "exit_time": "2022-02-08 22:04:40"
+  },
+  {
+    "id": 56578,
+    "trailer_id": 14731,
+    "facility_id": 846,
+    "entrance_time": "2022-02-06 00:41:53",
+    "exit_time": "2022-02-08 18:05:09"
+  },
+  {
+    "id": 56577,
+    "trailer_id": 8246,
+    "facility_id": 846,
+    "entrance_time": "2022-02-05 19:52:39",
+    "exit_time": "2022-02-07 17:04:43"
+  },
+  {
+    "id": 56576,
+    "trailer_id": 14730,
+    "facility_id": 846,
+    "entrance_time": "2022-02-05 15:41:00",
+    "exit_time": "2022-02-09 22:05:07"
+  },
+  {
+    "id": 56575,
+    "trailer_id": 14729,
+    "facility_id": 1,
+    "entrance_time": "2022-02-04 08:00:00",
+    "exit_time": "2022-02-09 00:12:44"
+  },
+  {
+    "id": 56574,
+    "trailer_id": 14705,
+    "facility_id": 319,
+    "entrance_time": "2022-02-05 00:05:48",
+    "exit_time": "2022-02-08 20:05:47"
+  },
+  {
+    "id": 56573,
+    "trailer_id": 14665,
+    "facility_id": 319,
+    "entrance_time": "2022-02-04 23:04:16",
+    "exit_time": "2022-02-07 14:10:38"
+  },
+  {
+    "id": 56572,
+    "trailer_id": 14724,
+    "facility_id": 846,
+    "entrance_time": "2022-02-04 21:30:59",
+    "exit_time": "2022-02-05 21:04:38"
+  },
+  {
+    "id": 56571,
+    "trailer_id": 14705,
+    "facility_id": 846,
+    "entrance_time": "2022-02-04 22:05:04",
+    "exit_time": "2022-02-05 00:05:47"
+  },
+  {
+    "id": 56570,
+    "trailer_id": 13877,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 23:55:07",
+    "exit_time": "2022-02-19 04:05:29"
+  },
+  {
+    "id": 56569,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-02-04 20:05:34",
+    "exit_time": "2022-02-07 17:04:43"
+  },
+  {
+    "id": 56568,
+    "trailer_id": 2106,
+    "facility_id": 846,
+    "entrance_time": "2022-02-04 18:30:25",
+    "exit_time": "2022-02-07 22:04:47"
+  },
+  {
+    "id": 56567,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-02-04 19:05:27",
+    "exit_time": "2022-02-04 20:05:33"
+  },
+  {
+    "id": 56566,
+    "trailer_id": 14674,
+    "facility_id": 319,
+    "entrance_time": "2022-02-04 18:30:40",
+    "exit_time": "2022-02-05 17:04:08"
+  },
+  {
+    "id": 56565,
+    "trailer_id": 14726,
+    "facility_id": 319,
+    "entrance_time": "2022-02-04 17:47:21",
+    "exit_time": "2022-02-07 02:03:49"
+  },
+  {
+    "id": 56564,
+    "trailer_id": 14725,
+    "facility_id": 846,
+    "entrance_time": "2022-02-04 16:41:27",
+    "exit_time": "2022-02-04 23:04:00"
+  },
+  {
+    "id": 56563,
+    "trailer_id": 14720,
+    "facility_id": 319,
+    "entrance_time": "2022-02-04 14:38:07",
+    "exit_time": "2022-02-04 23:04:15"
+  },
+  {
+    "id": 56562,
+    "trailer_id": 14721,
+    "facility_id": 846,
+    "entrance_time": "2022-01-29 08:00:00",
+    "exit_time": "2022-03-11 20:08:03"
+  },
+  {
+    "id": 56561,
+    "trailer_id": 14691,
+    "facility_id": 846,
+    "entrance_time": "2022-02-02 08:00:00",
+    "exit_time": "2022-03-11 20:08:03"
+  },
+  {
+    "id": 56560,
+    "trailer_id": 14646,
+    "facility_id": 846,
+    "entrance_time": "2022-02-03 08:00:00",
+    "exit_time": "2022-03-11 20:08:03"
+  },
+  {
+    "id": 56559,
+    "trailer_id": 14702,
+    "facility_id": 846,
+    "entrance_time": "2022-02-03 08:00:00",
+    "exit_time": "2022-03-11 20:08:03"
+  },
+  {
+    "id": 56558,
+    "trailer_id": 7914,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 23:51:38",
+    "exit_time": "2022-02-04 21:05:05"
+  },
+  {
+    "id": 56557,
+    "trailer_id": 14705,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 22:58:13",
+    "exit_time": "2022-02-04 22:05:03"
+  },
+  {
+    "id": 56556,
+    "trailer_id": 14718,
+    "facility_id": 1,
+    "entrance_time": "2022-02-03 08:00:00",
+    "exit_time": "2022-02-07 23:12:46"
+  },
+  {
+    "id": 56555,
+    "trailer_id": 14717,
+    "facility_id": 1,
+    "entrance_time": "2022-02-03 08:00:00",
+    "exit_time": "2022-02-04 17:00:46"
+  },
+  {
+    "id": 56554,
+    "trailer_id": 14716,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 22:20:10",
+    "exit_time": "2022-02-04 01:03:37"
+  },
+  {
+    "id": 56553,
+    "trailer_id": 4151,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 20:08:33",
+    "exit_time": "2022-02-04 19:05:26"
+  },
+  {
+    "id": 56552,
+    "trailer_id": 5887,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 20:04:53",
+    "exit_time": "2022-02-19 04:05:29"
+  },
+  {
+    "id": 56551,
+    "trailer_id": 5942,
+    "facility_id": 846,
+    "entrance_time": "2022-02-03 18:38:22",
+    "exit_time": "2022-02-04 18:05:27"
+  },
+  {
+    "id": 56550,
+    "trailer_id": 14708,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 16:49:45",
+    "exit_time": "2022-02-09 19:05:22"
+  },
+  {
+    "id": 56549,
+    "trailer_id": 5887,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 18:05:12",
+    "exit_time": "2022-02-03 20:04:52"
+  },
+  {
+    "id": 56548,
+    "trailer_id": 14559,
+    "facility_id": 1,
+    "entrance_time": "2022-02-03 08:00:00",
+    "exit_time": "2022-02-10 02:17:14"
+  },
+  {
+    "id": 56547,
+    "trailer_id": 3084,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 15:58:55",
+    "exit_time": "2022-02-04 12:09:42"
+  },
+  {
+    "id": 56546,
+    "trailer_id": 14475,
+    "facility_id": 1,
+    "entrance_time": "2022-02-02 08:00:00",
+    "exit_time": "2022-02-07 17:14:36"
+  },
+  {
+    "id": 56545,
+    "trailer_id": 14707,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 06:59:34",
+    "exit_time": "2022-02-03 20:04:52"
+  },
+  {
+    "id": 56544,
+    "trailer_id": 14699,
+    "facility_id": 319,
+    "entrance_time": "2022-02-03 01:46:19",
+    "exit_time": "2022-02-04 01:03:37"
+  },
+  {
+    "id": 56543,
+    "trailer_id": 2106,
+    "facility_id": 846,
+    "entrance_time": "2022-02-03 00:05:23",
+    "exit_time": "2022-02-03 17:03:38"
+  },
+  {
+    "id": 56542,
+    "trailer_id": 14698,
+    "facility_id": 319,
+    "entrance_time": "2022-02-02 23:24:36",
+    "exit_time": "2022-02-03 17:03:45"
+  },
+  {
+    "id": 56541,
+    "trailer_id": 14707,
+    "facility_id": 846,
+    "entrance_time": "2022-02-02 21:08:04",
+    "exit_time": "2022-02-03 03:03:31"
+  },
+  {
+    "id": 56540,
+    "trailer_id": 212,
+    "facility_id": 846,
+    "entrance_time": "2022-02-02 19:04:43",
+    "exit_time": "2022-02-05 00:05:47"
+  },
+  {
+    "id": 56539,
+    "trailer_id": 14703,
+    "facility_id": 319,
+    "entrance_time": "2022-02-02 19:46:09",
+    "exit_time": "2022-02-03 23:03:21"
+  },
+  {
+    "id": 56538,
+    "trailer_id": 212,
+    "facility_id": 846,
+    "entrance_time": "2022-02-02 19:04:43",
+    "exit_time": "2022-02-02 20:04:58"
+  },
+  {
+    "id": 56537,
+    "trailer_id": 14697,
+    "facility_id": 319,
+    "entrance_time": "2022-02-02 16:18:02",
+    "exit_time": "2022-02-03 16:03:18"
+  },
+  {
+    "id": 56536,
+    "trailer_id": 14559,
+    "facility_id": 1,
+    "entrance_time": "2022-02-01 08:00:00",
+    "exit_time": "2022-02-02 21:17:52"
+  },
+  {
+    "id": 56535,
+    "trailer_id": 14696,
+    "facility_id": 1,
+    "entrance_time": "2022-02-01 08:00:00",
+    "exit_time": "2022-02-15 17:07:12"
+  },
+  {
+    "id": 56534,
+    "trailer_id": 12743,
+    "facility_id": 846,
+    "entrance_time": "2022-02-02 02:16:02",
+    "exit_time": "2022-02-02 22:03:46"
+  },
+  {
+    "id": 56533,
+    "trailer_id": 14665,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 20:27:31",
+    "exit_time": "2022-02-04 23:04:15"
+  },
+  {
+    "id": 56532,
+    "trailer_id": 14674,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 23:04:49",
+    "exit_time": "2022-02-04 14:06:03"
+  },
+  {
+    "id": 56531,
+    "trailer_id": 14666,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 19:21:41",
+    "exit_time": "2022-02-02 22:03:46"
+  },
+  {
+    "id": 56530,
+    "trailer_id": 4985,
+    "facility_id": 846,
+    "entrance_time": "2022-01-31 23:43:55",
+    "exit_time": "2022-02-03 01:02:58"
+  },
+  {
+    "id": 56529,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-02-01 22:03:54",
+    "exit_time": "2022-02-04 19:05:26"
+  },
+  {
+    "id": 56528,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-02-01 20:06:17",
+    "exit_time": "2022-02-01 22:03:53"
+  },
+  {
+    "id": 56527,
+    "trailer_id": 14560,
+    "facility_id": 846,
+    "entrance_time": "2022-02-01 18:38:45",
+    "exit_time": "2022-02-04 20:05:33"
+  },
+  {
+    "id": 56526,
+    "trailer_id": 14664,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 18:04:39",
+    "exit_time": "2022-02-07 14:10:38"
+  },
+  {
+    "id": 56525,
+    "trailer_id": 14676,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 18:04:39",
+    "exit_time": "2022-02-02 15:04:45"
+  },
+  {
+    "id": 56524,
+    "trailer_id": 14673,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 16:41:24",
+    "exit_time": "2022-02-04 14:06:03"
+  },
+  {
+    "id": 56523,
+    "trailer_id": 14669,
+    "facility_id": 846,
+    "entrance_time": "2022-02-01 18:04:38",
+    "exit_time": "2022-02-01 22:03:53"
+  },
+  {
+    "id": 56522,
+    "trailer_id": 14408,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 16:03:53",
+    "exit_time": "2022-02-07 21:05:00"
+  },
+  {
+    "id": 56521,
+    "trailer_id": 14663,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 14:57:03",
+    "exit_time": "2022-02-02 17:04:33"
+  },
+  {
+    "id": 56520,
+    "trailer_id": 14688,
+    "facility_id": 319,
+    "entrance_time": "2022-02-01 04:40:17",
+    "exit_time": "2022-02-03 01:02:56"
+  },
+  {
+    "id": 56519,
+    "trailer_id": 14534,
+    "facility_id": 846,
+    "entrance_time": "2022-02-01 03:01:55",
+    "exit_time": "2022-02-01 19:04:40"
+  },
+  {
+    "id": 56518,
+    "trailer_id": 5146,
+    "facility_id": 846,
+    "entrance_time": "2022-02-01 02:32:43",
+    "exit_time": "2022-02-02 12:07:54"
+  },
+  {
+    "id": 56517,
+    "trailer_id": 4985,
+    "facility_id": 846,
+    "entrance_time": "2022-02-01 02:03:36",
+    "exit_time": "2022-02-01 19:04:40"
+  },
+  {
+    "id": 56516,
+    "trailer_id": 14689,
+    "facility_id": 1,
+    "entrance_time": "2022-01-31 08:00:00",
+    "exit_time": "2022-02-21 16:11:28"
+  },
+  {
+    "id": 56515,
+    "trailer_id": 4985,
+    "facility_id": 846,
+    "entrance_time": "2022-01-31 23:52:48",
+    "exit_time": "2022-02-01 02:03:35"
+  },
+  {
+    "id": 56514,
+    "trailer_id": 14557,
+    "facility_id": 1,
+    "entrance_time": "2022-01-31 08:00:00",
+    "exit_time": "2022-02-04 00:01:15"
+  },
+  {
+    "id": 56513,
+    "trailer_id": 14682,
+    "facility_id": 319,
+    "entrance_time": "2022-01-31 21:20:46",
+    "exit_time": "2022-01-31 23:03:42"
+  },
+  {
+    "id": 56512,
+    "trailer_id": 14624,
+    "facility_id": 319,
+    "entrance_time": "2022-01-31 20:05:01",
+    "exit_time": "2022-02-15 18:04:31"
+  },
+  {
+    "id": 56511,
+    "trailer_id": 14624,
+    "facility_id": 319,
+    "entrance_time": "2022-01-31 19:04:26",
+    "exit_time": "2022-01-31 20:05:00"
+  },
+  {
+    "id": 56510,
+    "trailer_id": 14408,
+    "facility_id": 319,
+    "entrance_time": "2022-01-31 06:48:51",
+    "exit_time": "2022-02-01 16:03:52"
+  },
+  {
+    "id": 56509,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-31 00:03:49",
+    "exit_time": "2022-01-31 08:05:45"
+  },
+  {
+    "id": 56508,
+    "trailer_id": 14675,
+    "facility_id": 846,
+    "entrance_time": "2022-01-30 22:04:31",
+    "exit_time": "2022-02-01 01:04:47"
+  },
+  {
+    "id": 56507,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-30 21:04:37",
+    "exit_time": "2022-01-31 00:03:48"
+  },
+  {
+    "id": 56506,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-01-30 20:04:02",
+    "exit_time": "2022-02-01 20:06:16"
+  },
+  {
+    "id": 56505,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-01-30 20:04:02",
+    "exit_time": "2022-01-30 21:04:34"
+  },
+  {
+    "id": 56504,
+    "trailer_id": 14675,
+    "facility_id": 846,
+    "entrance_time": "2022-01-30 20:04:02",
+    "exit_time": "2022-01-30 22:04:30"
+  },
+  {
+    "id": 56503,
+    "trailer_id": 212,
+    "facility_id": 846,
+    "entrance_time": "2022-01-30 20:04:02",
+    "exit_time": "2022-02-02 19:04:42"
+  },
+  {
+    "id": 56502,
+    "trailer_id": 212,
+    "facility_id": 846,
+    "entrance_time": "2022-01-30 19:03:53",
+    "exit_time": "2022-01-30 20:04:01"
+  },
+  {
+    "id": 56501,
+    "trailer_id": 14676,
+    "facility_id": 319,
+    "entrance_time": "2022-01-30 16:00:42",
+    "exit_time": "2022-02-01 18:04:38"
+  },
+  {
+    "id": 56500,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-30 13:05:47",
+    "exit_time": "2022-01-30 21:04:36"
+  },
+  {
+    "id": 56499,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-30 09:02:39",
+    "exit_time": "2022-01-30 13:05:46"
+  },
+  {
+    "id": 56498,
+    "trailer_id": 14675,
+    "facility_id": 846,
+    "entrance_time": "2022-01-30 03:48:18",
+    "exit_time": "2022-01-30 20:04:01"
+  },
+  {
+    "id": 56497,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-01-30 00:05:38",
+    "exit_time": "2022-01-30 20:04:01"
+  },
+  {
+    "id": 56496,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-01-29 23:03:02",
+    "exit_time": "2022-01-30 00:05:37"
+  },
+  {
+    "id": 56495,
+    "trailer_id": 14623,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 22:03:17",
+    "exit_time": "2022-01-30 19:03:44"
+  },
+  {
+    "id": 56494,
+    "trailer_id": 14674,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 20:24:33",
+    "exit_time": "2022-02-01 23:04:48"
+  },
+  {
+    "id": 56493,
+    "trailer_id": 12414,
+    "facility_id": 846,
+    "entrance_time": "2022-01-29 20:34:58",
+    "exit_time": "2022-01-29 23:03:01"
+  },
+  {
+    "id": 56492,
+    "trailer_id": 14669,
+    "facility_id": 846,
+    "entrance_time": "2022-01-29 20:24:33",
+    "exit_time": "2022-02-01 18:04:37"
+  },
+  {
+    "id": 56491,
+    "trailer_id": 14623,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 20:04:22",
+    "exit_time": "2022-01-29 22:03:16"
+  },
+  {
+    "id": 56490,
+    "trailer_id": 14663,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 18:32:02",
+    "exit_time": "2022-02-01 13:09:23"
+  },
+  {
+    "id": 56489,
+    "trailer_id": 14673,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 18:09:51",
+    "exit_time": "2022-01-31 19:04:25"
+  },
+  {
+    "id": 56488,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 19:03:38",
+    "exit_time": "2022-01-30 09:02:38"
+  },
+  {
+    "id": 56487,
+    "trailer_id": 14665,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 16:31:33",
+    "exit_time": "2022-02-01 18:04:38"
+  },
+  {
+    "id": 56486,
+    "trailer_id": 212,
+    "facility_id": 846,
+    "entrance_time": "2022-01-29 16:45:26",
+    "exit_time": "2022-01-30 19:03:52"
+  },
+  {
+    "id": 56485,
+    "trailer_id": 13309,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 15:21:00",
+    "exit_time": "2022-01-29 18:04:52"
+  },
+  {
+    "id": 56484,
+    "trailer_id": 1754,
+    "facility_id": 846,
+    "entrance_time": "2022-01-29 14:54:03",
+    "exit_time": "2022-02-01 01:04:47"
+  },
+  {
+    "id": 56483,
+    "trailer_id": 14672,
+    "facility_id": 846,
+    "entrance_time": "2022-01-29 12:37:15",
+    "exit_time": "2022-02-04 15:04:57"
+  },
+  {
+    "id": 56482,
+    "trailer_id": 14656,
+    "facility_id": 846,
+    "entrance_time": "2022-01-29 12:23:35",
+    "exit_time": "2022-01-30 07:02:54"
+  },
+  {
+    "id": 56481,
+    "trailer_id": 14664,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 12:41:09",
+    "exit_time": "2022-02-01 18:04:38"
+  },
+  {
+    "id": 56480,
+    "trailer_id": 12557,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 11:54:13",
+    "exit_time": "2022-01-29 20:04:21"
+  },
+  {
+    "id": 56479,
+    "trailer_id": 14360,
+    "facility_id": 1,
+    "entrance_time": "2022-01-28 08:00:00",
+    "exit_time": "2022-02-12 00:04:21"
+  },
+  {
+    "id": 56478,
+    "trailer_id": 14468,
+    "facility_id": 1,
+    "entrance_time": "2022-01-28 08:00:00",
+    "exit_time": "2022-02-04 17:00:46"
+  },
+  {
+    "id": 56477,
+    "trailer_id": 14671,
+    "facility_id": 1,
+    "entrance_time": "2022-01-28 08:00:00",
+    "exit_time": "2022-02-01 02:12:57"
+  },
+  {
+    "id": 56476,
+    "trailer_id": 14651,
+    "facility_id": 1,
+    "entrance_time": "2022-01-28 08:00:00",
+    "exit_time": "2022-01-31 23:06:47"
+  },
+  {
+    "id": 56475,
+    "trailer_id": 14670,
+    "facility_id": 1,
+    "entrance_time": "2022-01-28 08:00:00",
+    "exit_time": "2022-02-11 19:04:21"
+  },
+  {
+    "id": 56474,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 09:03:46",
+    "exit_time": "2022-01-29 19:03:37"
+  },
+  {
+    "id": 56473,
+    "trailer_id": 14658,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 04:47:24",
+    "exit_time": "2022-01-30 18:04:23"
+  },
+  {
+    "id": 56472,
+    "trailer_id": 14485,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 05:03:46",
+    "exit_time": "2022-01-29 07:03:55"
+  },
+  {
+    "id": 56471,
+    "trailer_id": 14666,
+    "facility_id": 319,
+    "entrance_time": "2022-01-29 03:22:09",
+    "exit_time": "2022-02-01 19:04:33"
+  },
+  {
+    "id": 56470,
+    "trailer_id": 12557,
+    "facility_id": 319,
+    "entrance_time": "2022-01-28 23:25:52",
+    "exit_time": "2022-01-29 08:05:45"
+  },
+  {
+    "id": 56469,
+    "trailer_id": 14656,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 23:54:36",
+    "exit_time": "2022-01-29 08:05:45"
+  },
+  {
+    "id": 56468,
+    "trailer_id": 14541,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 20:54:00",
+    "exit_time": "2022-01-29 13:06:33"
+  },
+  {
+    "id": 56467,
+    "trailer_id": 885,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 20:50:27",
+    "exit_time": "2022-01-28 22:05:47"
+  },
+  {
+    "id": 56466,
+    "trailer_id": 14535,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 20:08:04",
+    "exit_time": "2022-02-04 14:08:03"
+  },
+  {
+    "id": 56465,
+    "trailer_id": 14657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 08:00:00",
+    "exit_time": "2022-03-11 20:06:32"
+  },
+  {
+    "id": 56464,
+    "trailer_id": 14657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 16:30:11",
+    "exit_time": "2022-01-29 17:03:38"
+  },
+  {
+    "id": 56463,
+    "trailer_id": 14660,
+    "facility_id": 319,
+    "entrance_time": "2022-01-28 16:34:58",
+    "exit_time": "2022-01-29 17:03:39"
+  },
+  {
+    "id": 56462,
+    "trailer_id": 14635,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 00:01:15",
+    "exit_time": "2022-01-29 21:03:45"
+  },
+  {
+    "id": 56461,
+    "trailer_id": 14598,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 08:00:00",
+    "exit_time": "2022-02-04 14:08:03"
+  },
+  {
+    "id": 56460,
+    "trailer_id": 14655,
+    "facility_id": 1,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-01-28 15:07:04"
+  },
+  {
+    "id": 56459,
+    "trailer_id": 14557,
+    "facility_id": 1,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-01-28 16:11:30"
+  },
+  {
+    "id": 56458,
+    "trailer_id": 14617,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-01-28 20:08:03"
+  },
+  {
+    "id": 56457,
+    "trailer_id": 14653,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-03-11 20:06:32"
+  },
+  {
+    "id": 56456,
+    "trailer_id": 14653,
+    "facility_id": 846,
+    "entrance_time": "2022-01-28 02:45:03",
+    "exit_time": "2022-01-28 21:04:50"
+  },
+  {
+    "id": 56455,
+    "trailer_id": 14616,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-01-28 20:08:03"
+  },
+  {
+    "id": 56454,
+    "trailer_id": 14633,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-01-28 20:08:03"
+  },
+  {
+    "id": 56453,
+    "trailer_id": 14535,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-01-28 20:08:03"
+  },
+  {
+    "id": 56452,
+    "trailer_id": 14654,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-01-28 20:08:03"
+  },
+  {
+    "id": 56451,
+    "trailer_id": 14596,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-03-11 20:06:32"
+  },
+  {
+    "id": 56450,
+    "trailer_id": 14635,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-03-11 20:06:32"
+  },
+  {
+    "id": 56449,
+    "trailer_id": 14596,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 22:30:11",
+    "exit_time": "2022-01-29 16:04:06"
+  },
+  {
+    "id": 56448,
+    "trailer_id": 14652,
+    "facility_id": 1,
+    "entrance_time": "2022-01-27 08:00:00",
+    "exit_time": "2022-02-08 21:16:54"
+  },
+  {
+    "id": 56447,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 23:03:33",
+    "exit_time": "2022-01-29 09:03:45"
+  },
+  {
+    "id": 56446,
+    "trailer_id": 14640,
+    "facility_id": 1,
+    "entrance_time": "2022-01-27 16:13:33",
+    "exit_time": "2022-02-07 23:12:46"
+  },
+  {
+    "id": 56445,
+    "trailer_id": 14638,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 22:05:26",
+    "exit_time": "2022-01-28 04:06:07"
+  },
+  {
+    "id": 56444,
+    "trailer_id": 14576,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 21:39:14",
+    "exit_time": "2022-02-03 16:03:18"
+  },
+  {
+    "id": 56443,
+    "trailer_id": 3462,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 19:41:57",
+    "exit_time": "2022-01-28 01:05:16"
+  },
+  {
+    "id": 56442,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 21:05:25",
+    "exit_time": "2022-01-27 23:03:32"
+  },
+  {
+    "id": 56441,
+    "trailer_id": 14642,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 17:41:38",
+    "exit_time": "2022-01-28 17:04:45"
+  },
+  {
+    "id": 56440,
+    "trailer_id": 14624,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 19:05:41",
+    "exit_time": "2022-01-31 19:04:25"
+  },
+  {
+    "id": 56439,
+    "trailer_id": 14641,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 17:21:46",
+    "exit_time": "2022-01-27 19:05:40"
+  },
+  {
+    "id": 56438,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 18:04:58",
+    "exit_time": "2022-01-27 21:05:24"
+  },
+  {
+    "id": 56437,
+    "trailer_id": 14624,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 17:04:29",
+    "exit_time": "2022-01-27 19:05:40"
+  },
+  {
+    "id": 56436,
+    "trailer_id": 14643,
+    "facility_id": 846,
+    "entrance_time": "2022-01-27 15:55:22",
+    "exit_time": "2022-01-27 22:05:28"
+  },
+  {
+    "id": 56435,
+    "trailer_id": 14640,
+    "facility_id": 1,
+    "entrance_time": "2022-01-26 08:00:00",
+    "exit_time": "2022-01-27 16:13:32"
+  },
+  {
+    "id": 56434,
+    "trailer_id": 14468,
+    "facility_id": 1,
+    "entrance_time": "2022-01-26 17:07:06",
+    "exit_time": "2022-01-27 16:13:32"
+  },
+  {
+    "id": 56433,
+    "trailer_id": 14639,
+    "facility_id": 1,
+    "entrance_time": "2022-01-26 08:00:00",
+    "exit_time": "2022-01-27 15:07:04"
+  },
+  {
+    "id": 56432,
+    "trailer_id": 14544,
+    "facility_id": 1,
+    "entrance_time": "2022-01-26 10:07:08",
+    "exit_time": "2022-01-28 09:07:03"
+  },
+  {
+    "id": 56431,
+    "trailer_id": 14636,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 13:08:19",
+    "exit_time": "2022-01-27 17:04:28"
+  },
+  {
+    "id": 56430,
+    "trailer_id": 14638,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 09:06:52",
+    "exit_time": "2022-01-27 22:05:25"
+  },
+  {
+    "id": 56429,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-27 09:04:24",
+    "exit_time": "2022-01-27 18:04:57"
+  },
+  {
+    "id": 56428,
+    "trailer_id": 14602,
+    "facility_id": 846,
+    "entrance_time": "2022-01-26 08:00:00",
+    "exit_time": "2022-02-04 14:08:03"
+  },
+  {
+    "id": 56427,
+    "trailer_id": 12909,
+    "facility_id": 846,
+    "entrance_time": "2022-01-26 20:08:05",
+    "exit_time": "2022-01-27 20:08:04"
+  },
+  {
+    "id": 56426,
+    "trailer_id": 7914,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 21:50:00",
+    "exit_time": "2022-02-03 22:03:44"
+  },
+  {
+    "id": 56425,
+    "trailer_id": 7189,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 20:05:12",
+    "exit_time": "2022-01-28 19:05:57"
+  },
+  {
+    "id": 56424,
+    "trailer_id": 14625,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 22:35:12",
+    "exit_time": "2022-01-27 00:04:29"
+  },
+  {
+    "id": 56423,
+    "trailer_id": 14485,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 18:04:58",
+    "exit_time": "2022-01-29 05:03:45"
+  },
+  {
+    "id": 56422,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 18:04:58",
+    "exit_time": "2022-01-27 09:04:23"
+  },
+  {
+    "id": 56421,
+    "trailer_id": 7189,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 14:09:40",
+    "exit_time": "2022-01-26 20:05:11"
+  },
+  {
+    "id": 56420,
+    "trailer_id": 14594,
+    "facility_id": 846,
+    "entrance_time": "2022-01-26 08:00:00",
+    "exit_time": "2022-02-04 14:08:03"
+  },
+  {
+    "id": 56419,
+    "trailer_id": 14605,
+    "facility_id": 319,
+    "entrance_time": "2022-01-24 23:43:03",
+    "exit_time": "2022-01-26 23:03:59"
+  },
+  {
+    "id": 56418,
+    "trailer_id": 14485,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 13:07:52",
+    "exit_time": "2022-01-26 18:04:57"
+  },
+  {
+    "id": 56417,
+    "trailer_id": 14631,
+    "facility_id": 1,
+    "entrance_time": "2022-01-26 08:00:00",
+    "exit_time": "2022-01-27 15:07:04"
+  },
+  {
+    "id": 56416,
+    "trailer_id": 14630,
+    "facility_id": 1,
+    "entrance_time": "2022-01-26 10:07:08",
+    "exit_time": "2022-01-26 17:07:05"
+  },
+  {
+    "id": 56415,
+    "trailer_id": 14629,
+    "facility_id": 1,
+    "entrance_time": "2022-01-26 08:00:00",
+    "exit_time": "2022-02-01 16:10:56"
+  },
+  {
+    "id": 56414,
+    "trailer_id": 14607,
+    "facility_id": 1,
+    "entrance_time": "2022-01-26 08:00:00",
+    "exit_time": "2022-01-28 16:11:30"
+  },
+  {
+    "id": 56413,
+    "trailer_id": 14628,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 09:38:46",
+    "exit_time": "2022-02-02 23:03:09"
+  },
+  {
+    "id": 56412,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 09:04:21",
+    "exit_time": "2022-01-26 18:04:57"
+  },
+  {
+    "id": 56411,
+    "trailer_id": 7189,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 07:03:56",
+    "exit_time": "2022-01-26 14:09:39"
+  },
+  {
+    "id": 56410,
+    "trailer_id": 12909,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 20:08:04"
+  },
+  {
+    "id": 56409,
+    "trailer_id": 14597,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 20:08:04"
+  },
+  {
+    "id": 56408,
+    "trailer_id": 14549,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 20:08:04"
+  },
+  {
+    "id": 56407,
+    "trailer_id": 14586,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 14:08:06",
+    "exit_time": "2022-01-27 02:08:05"
+  },
+  {
+    "id": 56406,
+    "trailer_id": 14627,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-28 20:08:03"
+  },
+  {
+    "id": 56405,
+    "trailer_id": 14626,
+    "facility_id": 319,
+    "entrance_time": "2022-01-26 01:28:09",
+    "exit_time": "2022-01-26 14:09:39"
+  },
+  {
+    "id": 56404,
+    "trailer_id": 14625,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 22:35:21",
+    "exit_time": "2022-01-26 17:05:37"
+  },
+  {
+    "id": 56403,
+    "trailer_id": 14485,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 20:54:33",
+    "exit_time": "2022-01-26 13:07:51"
+  },
+  {
+    "id": 56402,
+    "trailer_id": 6617,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 19:07:35",
+    "exit_time": "2022-01-28 23:05:09"
+  },
+  {
+    "id": 56401,
+    "trailer_id": 4985,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 20:05:11",
+    "exit_time": "2022-01-26 09:04:20"
+  },
+  {
+    "id": 56400,
+    "trailer_id": 14606,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 15:33:26",
+    "exit_time": "2022-02-15 15:03:33"
+  },
+  {
+    "id": 56399,
+    "trailer_id": 14576,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 15:13:32",
+    "exit_time": "2022-01-27 21:05:24"
+  },
+  {
+    "id": 56398,
+    "trailer_id": 14572,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 10:00:23",
+    "exit_time": "2022-01-26 20:05:11"
+  },
+  {
+    "id": 56397,
+    "trailer_id": 8406,
+    "facility_id": 319,
+    "entrance_time": "2022-01-24 23:51:56",
+    "exit_time": "2022-01-27 16:04:39"
+  },
+  {
+    "id": 56396,
+    "trailer_id": 7189,
+    "facility_id": 319,
+    "entrance_time": "2022-01-22 11:13:37",
+    "exit_time": "2022-01-26 07:03:55"
+  },
+  {
+    "id": 56395,
+    "trailer_id": 14605,
+    "facility_id": 319,
+    "entrance_time": "2022-01-25 21:55:40",
+    "exit_time": "2022-01-26 13:07:51"
+  },
+  {
+    "id": 56394,
+    "trailer_id": 14375,
+    "facility_id": 319,
+    "entrance_time": "2022-01-19 22:44:49",
+    "exit_time": "2022-01-27 08:06:04"
+  },
+  {
+    "id": 56393,
+    "trailer_id": 6504,
+    "facility_id": 319,
+    "entrance_time": "2022-01-18 19:46:04",
+    "exit_time": "2022-01-26 02:05:10"
+  },
+  {
+    "id": 56392,
+    "trailer_id": 5887,
+    "facility_id": 319,
+    "entrance_time": "2022-01-18 16:40:52",
+    "exit_time": "2022-02-03 18:05:11"
+  },
+  {
+    "id": 56391,
+    "trailer_id": 12375,
+    "facility_id": 319,
+    "entrance_time": "2022-01-18 02:03:56",
+    "exit_time": "2022-01-27 12:10:12"
+  },
+  {
+    "id": 56390,
+    "trailer_id": 14624,
+    "facility_id": 319,
+    "entrance_time": "2022-01-13 22:01:37",
+    "exit_time": "2022-01-27 17:04:28"
+  },
+  {
+    "id": 56389,
+    "trailer_id": 2471,
+    "facility_id": 319,
+    "entrance_time": "2022-01-10 18:43:02",
+    "exit_time": "2022-02-08 04:05:40"
+  },
+  {
+    "id": 56388,
+    "trailer_id": 14623,
+    "facility_id": 319,
+    "entrance_time": "2022-01-08 23:03:12",
+    "exit_time": "2022-01-29 20:04:21"
+  },
+  {
+    "id": 56387,
+    "trailer_id": 3110,
+    "facility_id": 319,
+    "entrance_time": "2022-01-04 13:24:21",
+    "exit_time": "2022-02-09 21:06:03"
+  },
+  {
+    "id": 56386,
+    "trailer_id": 14622,
+    "facility_id": 1,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 20:11:29"
+  },
+  {
+    "id": 56385,
+    "trailer_id": 14619,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-27 20:08:04"
+  },
+  {
+    "id": 56384,
+    "trailer_id": 14580,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 14:08:04"
+  },
+  {
+    "id": 56383,
+    "trailer_id": 14615,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-28 20:06:32"
+  },
+  {
+    "id": 56382,
+    "trailer_id": 14615,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 15:22:45",
+    "exit_time": "2022-01-28 15:05:20"
+  },
+  {
+    "id": 56381,
+    "trailer_id": 14569,
+    "facility_id": 1,
+    "entrance_time": "2022-01-24 20:14:31",
+    "exit_time": "2022-01-26 10:07:07"
+  },
+  {
+    "id": 56380,
+    "trailer_id": 14614,
+    "facility_id": 1,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 16:13:26"
+  },
+  {
+    "id": 56379,
+    "trailer_id": 14613,
+    "facility_id": 1,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-02-01 02:12:57"
+  },
+  {
+    "id": 56378,
+    "trailer_id": 14559,
+    "facility_id": 1,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 23:07:03"
+  },
+  {
+    "id": 56377,
+    "trailer_id": 14468,
+    "facility_id": 1,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 17:07:05"
+  },
+  {
+    "id": 56376,
+    "trailer_id": 14612,
+    "facility_id": 1,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-01-29 12:13:00"
+  },
+  {
+    "id": 56375,
+    "trailer_id": 14552,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 08:00:00",
+    "exit_time": "2022-01-26 02:06:30"
+  },
+  {
+    "id": 56374,
+    "trailer_id": 14609,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-01-25 20:08:04"
+  },
+  {
+    "id": 56373,
+    "trailer_id": 14562,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-01-26 02:08:04"
+  },
+  {
+    "id": 56372,
+    "trailer_id": 14561,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 20:08:05",
+    "exit_time": "2022-01-26 02:08:04"
+  },
+  {
+    "id": 56371,
+    "trailer_id": 14586,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 14:08:05",
+    "exit_time": "2022-01-25 14:08:05"
+  },
+  {
+    "id": 56370,
+    "trailer_id": 14599,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-01-25 14:08:05"
+  },
+  {
+    "id": 56369,
+    "trailer_id": 13043,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-03-11 20:06:32"
+  },
+  {
+    "id": 56368,
+    "trailer_id": 14431,
+    "facility_id": 846,
+    "entrance_time": "2022-01-25 02:06:30",
+    "exit_time": "2022-01-25 08:06:30"
+  },
+  {
+    "id": 56367,
+    "trailer_id": 12191,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-01-25 20:06:30"
+  },
+  {
+    "id": 56366,
+    "trailer_id": 14608,
+    "facility_id": 1,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-01-27 15:07:04"
+  },
+  {
+    "id": 56365,
+    "trailer_id": 14607,
+    "facility_id": 1,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-01-25 15:10:12"
+  },
+  {
+    "id": 56364,
+    "trailer_id": 12191,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 22:53:13",
+    "exit_time": "2022-01-25 08:05:33"
+  },
+  {
+    "id": 56363,
+    "trailer_id": 14431,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 21:57:30",
+    "exit_time": "2022-01-25 04:06:34"
+  },
+  {
+    "id": 56362,
+    "trailer_id": 14604,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 20:32:54",
+    "exit_time": "2022-01-28 01:05:06"
+  },
+  {
+    "id": 56361,
+    "trailer_id": 14565,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 14:08:05",
+    "exit_time": "2022-01-26 02:08:04"
+  },
+  {
+    "id": 56360,
+    "trailer_id": 14596,
+    "facility_id": 846,
+    "entrance_time": "2022-01-24 17:53:45",
+    "exit_time": "2022-01-24 21:05:01"
+  },
+  {
+    "id": 56359,
+    "trailer_id": 14590,
+    "facility_id": 1,
+    "entrance_time": "2022-01-24 08:00:00",
+    "exit_time": "2022-02-16 16:11:22"
+  },
+  {
+    "id": 56358,
+    "trailer_id": 14586,
+    "facility_id": 846,
+    "entrance_time": "2022-01-23 08:00:00",
+    "exit_time": "2022-01-24 14:08:04"
+  },
+  {
+    "id": 56357,
+    "trailer_id": 14565,
+    "facility_id": 846,
+    "entrance_time": "2022-01-22 08:00:00",
+    "exit_time": "2022-01-24 14:08:04"
+  },
+  {
+    "id": 56356,
+    "trailer_id": 14264,
+    "facility_id": 846,
+    "entrance_time": "2022-01-22 08:00:00",
+    "exit_time": "2022-01-27 20:06:32"
+  },
+  {
+    "id": 56355,
+    "trailer_id": 14264,
+    "facility_id": 846,
+    "entrance_time": "2022-01-22 22:13:57",
+    "exit_time": "2022-01-27 15:05:15"
+  },
+  {
+    "id": 56354,
+    "trailer_id": 14561,
+    "facility_id": 846,
+    "entrance_time": "2022-01-22 08:00:00",
+    "exit_time": "2022-01-24 20:08:04"
+  },
+  {
+    "id": 56353,
+    "trailer_id": 14583,
+    "facility_id": 1,
+    "entrance_time": "2022-01-21 08:00:00",
+    "exit_time": "2022-01-28 20:11:19"
+  },
+  {
+    "id": 56352,
+    "trailer_id": 14550,
+    "facility_id": 1,
+    "entrance_time": "2022-01-21 08:00:00",
+    "exit_time": "2022-01-26 10:07:07"
+  },
+  {
+    "id": 56351,
+    "trailer_id": 14582,
+    "facility_id": 1,
+    "entrance_time": "2022-01-21 08:00:00",
+    "exit_time": "2022-01-26 17:07:05"
+  },
+  {
+    "id": 56350,
+    "trailer_id": 14542,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 08:00:00",
+    "exit_time": "2022-02-04 14:08:03"
+  },
+  {
+    "id": 56349,
+    "trailer_id": 14538,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 08:00:00",
+    "exit_time": "2022-01-25 02:06:29"
+  },
+  {
+    "id": 56348,
+    "trailer_id": 14538,
+    "facility_id": 846,
+    "entrance_time": "2022-01-22 00:24:52",
+    "exit_time": "2022-01-25 19:05:00"
+  },
+  {
+    "id": 56347,
+    "trailer_id": 12191,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 22:23:23",
+    "exit_time": "2022-01-22 01:05:11"
+  },
+  {
+    "id": 56346,
+    "trailer_id": 14540,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 20:08:07",
+    "exit_time": "2022-01-23 14:08:05"
+  },
+  {
+    "id": 56345,
+    "trailer_id": 14431,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 08:00:00",
+    "exit_time": "2022-01-25 02:06:29"
+  },
+  {
+    "id": 56344,
+    "trailer_id": 14431,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 18:16:08",
+    "exit_time": "2022-01-24 19:05:44"
+  },
+  {
+    "id": 56343,
+    "trailer_id": 14360,
+    "facility_id": 1,
+    "entrance_time": "2022-01-21 08:00:00",
+    "exit_time": "2022-01-24 23:10:12"
+  },
+  {
+    "id": 56342,
+    "trailer_id": 14575,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-23 02:08:05"
+  },
+  {
+    "id": 56341,
+    "trailer_id": 14574,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-23 20:08:05"
+  },
+  {
+    "id": 56340,
+    "trailer_id": 14571,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 02:59:46",
+    "exit_time": "2022-01-24 17:04:52"
+  },
+  {
+    "id": 56339,
+    "trailer_id": 14566,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 07:18:58",
+    "exit_time": "2022-01-24 17:04:52"
+  },
+  {
+    "id": 56338,
+    "trailer_id": 14571,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-24 20:06:29"
+  },
+  {
+    "id": 56337,
+    "trailer_id": 458,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-21 14:06:34"
+  },
+  {
+    "id": 56336,
+    "trailer_id": 14544,
+    "facility_id": 1,
+    "entrance_time": "2022-01-21 07:12:19",
+    "exit_time": "2022-01-26 10:07:07"
+  },
+  {
+    "id": 56335,
+    "trailer_id": 14559,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-21 15:10:15"
+  },
+  {
+    "id": 56334,
+    "trailer_id": 14570,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-21 19:10:22"
+  },
+  {
+    "id": 56333,
+    "trailer_id": 14522,
+    "facility_id": 1,
+    "entrance_time": "2022-01-21 07:12:19",
+    "exit_time": "2022-01-24 15:10:13"
+  },
+  {
+    "id": 56332,
+    "trailer_id": 14569,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-24 20:14:30"
+  },
+  {
+    "id": 56331,
+    "trailer_id": 14568,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-24 20:14:30"
+  },
+  {
+    "id": 56330,
+    "trailer_id": 458,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 04:16:15",
+    "exit_time": "2022-01-22 23:05:07"
+  },
+  {
+    "id": 56329,
+    "trailer_id": 14540,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 20:08:06",
+    "exit_time": "2022-01-21 20:08:06"
+  },
+  {
+    "id": 56328,
+    "trailer_id": 14524,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 14:08:06",
+    "exit_time": "2022-01-22 20:08:05"
+  },
+  {
+    "id": 56327,
+    "trailer_id": 14564,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-21 08:06:34"
+  },
+  {
+    "id": 56326,
+    "trailer_id": 14512,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 02:06:36",
+    "exit_time": "2022-01-21 08:06:34"
+  },
+  {
+    "id": 56325,
+    "trailer_id": 14512,
+    "facility_id": 846,
+    "entrance_time": "2022-01-21 00:53:23",
+    "exit_time": "2022-01-21 05:04:33"
+  },
+  {
+    "id": 56324,
+    "trailer_id": 14468,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-24 15:10:13"
+  },
+  {
+    "id": 56323,
+    "trailer_id": 14564,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 18:29:28",
+    "exit_time": "2022-01-21 14:07:05"
+  },
+  {
+    "id": 56322,
+    "trailer_id": 14438,
+    "facility_id": 1,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-25 15:10:12"
+  },
+  {
+    "id": 56321,
+    "trailer_id": 14559,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-21 07:12:18"
+  },
+  {
+    "id": 56320,
+    "trailer_id": 14525,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-20 20:08:05"
+  },
+  {
+    "id": 56319,
+    "trailer_id": 6989,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-03-11 20:06:32"
+  },
+  {
+    "id": 56318,
+    "trailer_id": 14557,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 10:10:17",
+    "exit_time": "2022-01-20 15:10:16"
+  },
+  {
+    "id": 56317,
+    "trailer_id": 14556,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-24 23:10:12"
+  },
+  {
+    "id": 56316,
+    "trailer_id": 14555,
+    "facility_id": 1,
+    "entrance_time": "2022-01-20 08:00:00",
+    "exit_time": "2022-01-21 01:10:15"
+  },
+  {
+    "id": 56315,
+    "trailer_id": 6989,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 09:07:11",
+    "exit_time": "2022-01-21 06:05:48"
+  },
+  {
+    "id": 56314,
+    "trailer_id": 14524,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-20 14:08:05"
+  },
+  {
+    "id": 56313,
+    "trailer_id": 14523,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-24 14:08:04"
+  },
+  {
+    "id": 56312,
+    "trailer_id": 14554,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-20 14:06:33"
+  },
+  {
+    "id": 56311,
+    "trailer_id": 14554,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 02:02:12",
+    "exit_time": "2022-01-20 13:08:24"
+  },
+  {
+    "id": 56310,
+    "trailer_id": 14540,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-20 20:08:05"
+  },
+  {
+    "id": 56309,
+    "trailer_id": 14466,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 20:08:05",
+    "exit_time": "2022-01-22 02:08:05"
+  },
+  {
+    "id": 56308,
+    "trailer_id": 14553,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-21 02:08:05"
+  },
+  {
+    "id": 56307,
+    "trailer_id": 14512,
+    "facility_id": 846,
+    "entrance_time": "2022-01-20 01:09:08",
+    "exit_time": "2022-01-20 14:06:31"
+  },
+  {
+    "id": 56306,
+    "trailer_id": 14548,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-20 14:06:33"
+  },
+  {
+    "id": 56305,
+    "trailer_id": 14552,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-21 02:06:35"
+  },
+  {
+    "id": 56304,
+    "trailer_id": 14548,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 22:06:36",
+    "exit_time": "2022-01-20 10:04:48"
+  },
+  {
+    "id": 56303,
+    "trailer_id": 14513,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 00:06:13",
+    "exit_time": "2022-01-20 20:08:11"
+  },
+  {
+    "id": 56302,
+    "trailer_id": 14522,
+    "facility_id": 1,
+    "entrance_time": "2022-01-19 15:10:17",
+    "exit_time": "2022-01-21 07:12:18"
+  },
+  {
+    "id": 56301,
+    "trailer_id": 14481,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 20:08:05",
+    "exit_time": "2022-01-21 20:08:06"
+  },
+  {
+    "id": 56300,
+    "trailer_id": 7657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 18:05:56",
+    "exit_time": "2022-01-19 22:05:14"
+  },
+  {
+    "id": 56299,
+    "trailer_id": 6318,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 15:48:16",
+    "exit_time": "2022-01-19 21:06:51"
+  },
+  {
+    "id": 56298,
+    "trailer_id": 14546,
+    "facility_id": 1,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-21 19:10:22"
+  },
+  {
+    "id": 56297,
+    "trailer_id": 14464,
+    "facility_id": 1,
+    "entrance_time": "2022-01-19 10:10:17",
+    "exit_time": "2022-01-19 22:10:16"
+  },
+  {
+    "id": 56296,
+    "trailer_id": 14545,
+    "facility_id": 1,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-21 19:10:22"
+  },
+  {
+    "id": 56295,
+    "trailer_id": 14544,
+    "facility_id": 1,
+    "entrance_time": "2022-01-19 08:00:00",
+    "exit_time": "2022-01-21 07:12:18"
+  },
+  {
+    "id": 56294,
+    "trailer_id": 14543,
+    "facility_id": 1,
+    "entrance_time": "2022-01-19 10:10:17",
+    "exit_time": "2022-01-19 21:16:26"
+  },
+  {
+    "id": 56293,
+    "trailer_id": 14494,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 08:00:00",
+    "exit_time": "2022-01-20 08:06:34"
+  },
+  {
+    "id": 56292,
+    "trailer_id": 7657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 05:04:29",
+    "exit_time": "2022-01-19 18:05:55"
+  },
+  {
+    "id": 56291,
+    "trailer_id": 14494,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 01:09:51",
+    "exit_time": "2022-01-20 04:06:35"
+  },
+  {
+    "id": 56290,
+    "trailer_id": 14488,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 08:00:00",
+    "exit_time": "2022-01-20 08:08:05"
+  },
+  {
+    "id": 56289,
+    "trailer_id": 14535,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 08:08:06",
+    "exit_time": "2022-01-19 20:08:04"
+  },
+  {
+    "id": 56288,
+    "trailer_id": 14541,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 08:00:00",
+    "exit_time": "2022-01-28 02:06:31"
+  },
+  {
+    "id": 56287,
+    "trailer_id": 14541,
+    "facility_id": 846,
+    "entrance_time": "2022-01-19 00:11:51",
+    "exit_time": "2022-01-27 21:05:24"
+  },
+  {
+    "id": 56286,
+    "trailer_id": 14464,
+    "facility_id": 1,
+    "entrance_time": "2022-01-18 11:10:18",
+    "exit_time": "2022-01-19 10:10:16"
+  },
+  {
+    "id": 56285,
+    "trailer_id": 14538,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 08:00:00",
+    "exit_time": "2022-01-20 02:06:33"
+  },
+  {
+    "id": 56284,
+    "trailer_id": 14538,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 13:26:22",
+    "exit_time": "2022-01-19 21:06:51"
+  },
+  {
+    "id": 56283,
+    "trailer_id": 14498,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 00:37:24",
+    "exit_time": "2022-01-18 19:05:48"
+  },
+  {
+    "id": 56282,
+    "trailer_id": 14345,
+    "facility_id": 1,
+    "entrance_time": "2022-01-18 08:00:00",
+    "exit_time": "2022-01-19 10:10:16"
+  },
+  {
+    "id": 56281,
+    "trailer_id": 14502,
+    "facility_id": 1,
+    "entrance_time": "2022-01-18 10:10:18",
+    "exit_time": "2022-01-19 10:10:16"
+  },
+  {
+    "id": 56280,
+    "trailer_id": 14537,
+    "facility_id": 1,
+    "entrance_time": "2022-01-18 08:00:00",
+    "exit_time": "2022-01-21 06:10:14"
+  },
+  {
+    "id": 56279,
+    "trailer_id": 14536,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-18 20:06:34"
+  },
+  {
+    "id": 56278,
+    "trailer_id": 13637,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-18 20:06:34"
+  },
+  {
+    "id": 56277,
+    "trailer_id": 13637,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 07:07:47",
+    "exit_time": "2022-01-18 15:06:32"
+  },
+  {
+    "id": 56276,
+    "trailer_id": 14536,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 06:32:43",
+    "exit_time": "2022-01-18 17:04:28"
+  },
+  {
+    "id": 56275,
+    "trailer_id": 7657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 06:05:03",
+    "exit_time": "2022-01-19 05:04:28"
+  },
+  {
+    "id": 56274,
+    "trailer_id": 6318,
+    "facility_id": 846,
+    "entrance_time": "2022-01-18 04:33:34",
+    "exit_time": "2022-01-18 22:05:09"
+  },
+  {
+    "id": 56273,
+    "trailer_id": 14527,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-19 02:08:05"
+  },
+  {
+    "id": 56272,
+    "trailer_id": 14535,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-18 08:08:05"
+  },
+  {
+    "id": 56271,
+    "trailer_id": 14498,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-18 20:06:34"
+  },
+  {
+    "id": 56270,
+    "trailer_id": 14468,
+    "facility_id": 1,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-19 21:16:26"
+  },
+  {
+    "id": 56269,
+    "trailer_id": 14516,
+    "facility_id": 1,
+    "entrance_time": "2022-01-16 08:00:00",
+    "exit_time": "2022-01-29 12:13:00"
+  },
+  {
+    "id": 56268,
+    "trailer_id": 14503,
+    "facility_id": 1,
+    "entrance_time": "2022-01-14 16:16:49",
+    "exit_time": "2022-02-05 02:09:52"
+  },
+  {
+    "id": 56267,
+    "trailer_id": 14529,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-18 20:08:05"
+  },
+  {
+    "id": 56266,
+    "trailer_id": 14528,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-19 02:06:33"
+  },
+  {
+    "id": 56265,
+    "trailer_id": 14513,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 16:19:10",
+    "exit_time": "2022-01-19 00:06:12"
+  },
+  {
+    "id": 56264,
+    "trailer_id": 14109,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 23:10:55",
+    "exit_time": "2022-01-18 00:05:37"
+  },
+  {
+    "id": 56263,
+    "trailer_id": 14522,
+    "facility_id": 1,
+    "entrance_time": "2022-01-17 08:00:00",
+    "exit_time": "2022-01-19 15:10:16"
+  },
+  {
+    "id": 56262,
+    "trailer_id": 14521,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 16:30:55",
+    "exit_time": "2022-01-17 15:06:24"
+  },
+  {
+    "id": 56261,
+    "trailer_id": 7657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 12:07:22",
+    "exit_time": "2022-01-18 06:05:02"
+  },
+  {
+    "id": 56260,
+    "trailer_id": 7657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-17 06:05:33",
+    "exit_time": "2022-01-17 12:07:21"
+  },
+  {
+    "id": 56259,
+    "trailer_id": 7657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-16 20:07:11",
+    "exit_time": "2022-01-17 06:05:32"
+  },
+  {
+    "id": 56258,
+    "trailer_id": 14466,
+    "facility_id": 846,
+    "entrance_time": "2022-01-16 08:00:00",
+    "exit_time": "2022-01-19 20:08:04"
+  },
+  {
+    "id": 56257,
+    "trailer_id": 14501,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 08:00:00",
+    "exit_time": "2022-01-20 14:08:05"
+  },
+  {
+    "id": 56256,
+    "trailer_id": 14500,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 08:00:00",
+    "exit_time": "2022-01-20 02:08:05"
+  },
+  {
+    "id": 56255,
+    "trailer_id": 7657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 20:05:59",
+    "exit_time": "2022-01-16 20:07:10"
+  },
+  {
+    "id": 56254,
+    "trailer_id": 14515,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 08:00:00",
+    "exit_time": "2022-01-20 02:06:33"
+  },
+  {
+    "id": 56253,
+    "trailer_id": 7657,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 16:25:18",
+    "exit_time": "2022-01-15 20:05:58"
+  },
+  {
+    "id": 56252,
+    "trailer_id": 5942,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 12:46:22",
+    "exit_time": "2022-01-28 21:04:50"
+  },
+  {
+    "id": 56251,
+    "trailer_id": 14481,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 08:00:00",
+    "exit_time": "2022-01-19 20:08:04"
+  },
+  {
+    "id": 56250,
+    "trailer_id": 14487,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 08:00:00",
+    "exit_time": "2022-01-23 20:08:05"
+  },
+  {
+    "id": 56249,
+    "trailer_id": 5942,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 08:00:00",
+    "exit_time": "2022-03-11 20:06:32"
+  },
+  {
+    "id": 56248,
+    "trailer_id": 14514,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 07:00:46",
+    "exit_time": "2022-01-27 22:05:28"
+  },
+  {
+    "id": 56247,
+    "trailer_id": 14510,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-16 02:08:04"
+  },
+  {
+    "id": 56246,
+    "trailer_id": 14513,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-19 02:06:33"
+  },
+  {
+    "id": 56245,
+    "trailer_id": 14512,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-21 02:06:35"
+  },
+  {
+    "id": 56244,
+    "trailer_id": 14514,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-28 02:06:31"
+  },
+  {
+    "id": 56243,
+    "trailer_id": 14345,
+    "facility_id": 1,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-17 20:14:28"
+  },
+  {
+    "id": 56242,
+    "trailer_id": 14512,
+    "facility_id": 846,
+    "entrance_time": "2022-01-15 01:25:08",
+    "exit_time": "2022-01-19 23:06:31"
+  },
+  {
+    "id": 56241,
+    "trailer_id": 14480,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-15 14:08:04"
+  },
+  {
+    "id": 56240,
+    "trailer_id": 14457,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-15 20:06:35"
+  },
+  {
+    "id": 56239,
+    "trailer_id": 13420,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 20:06:35",
+    "exit_time": "2022-01-17 20:06:34"
+  },
+  {
+    "id": 56238,
+    "trailer_id": 14475,
+    "facility_id": 1,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-25 20:11:24"
+  },
+  {
+    "id": 56237,
+    "trailer_id": 14464,
+    "facility_id": 1,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-18 11:10:17"
+  },
+  {
+    "id": 56236,
+    "trailer_id": 14457,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 20:10:19",
+    "exit_time": "2022-01-15 17:04:56"
+  },
+  {
+    "id": 56235,
+    "trailer_id": 13420,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 20:25:01",
+    "exit_time": "2022-01-17 17:06:57"
+  },
+  {
+    "id": 56234,
+    "trailer_id": 14243,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 20:08:04",
+    "exit_time": "2022-01-15 14:08:04"
+  },
+  {
+    "id": 56233,
+    "trailer_id": 14508,
+    "facility_id": 1,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-17 15:10:17"
+  },
+  {
+    "id": 56232,
+    "trailer_id": 14505,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-14 20:08:03"
+  },
+  {
+    "id": 56231,
+    "trailer_id": 14467,
+    "facility_id": 846,
+    "entrance_time": "2022-01-14 08:00:00",
+    "exit_time": "2022-01-19 20:08:04"
+  },
+  {
+    "id": 56230,
+    "trailer_id": 14498,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-14 20:06:34"
+  },
+  {
+    "id": 56229,
+    "trailer_id": 14503,
+    "facility_id": 1,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-14 16:16:48"
+  },
+  {
+    "id": 56228,
+    "trailer_id": 14502,
+    "facility_id": 1,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-18 10:10:17"
+  },
+  {
+    "id": 56227,
+    "trailer_id": 14499,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-16 02:08:04"
+  },
+  {
+    "id": 56226,
+    "trailer_id": 14470,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 20:06:34",
+    "exit_time": "2022-01-14 08:06:33"
+  },
+  {
+    "id": 56225,
+    "trailer_id": 14486,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-15 14:06:34"
+  },
+  {
+    "id": 56224,
+    "trailer_id": 14494,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-18 02:06:35"
+  },
+  {
+    "id": 56223,
+    "trailer_id": 14498,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 23:26:01",
+    "exit_time": "2022-01-14 19:06:52"
+  },
+  {
+    "id": 56222,
+    "trailer_id": 14496,
+    "facility_id": 1,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-14 16:16:48"
+  },
+  {
+    "id": 56221,
+    "trailer_id": 14494,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 22:49:35",
+    "exit_time": "2022-01-18 00:05:37"
+  },
+  {
+    "id": 56220,
+    "trailer_id": 14486,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 20:21:38",
+    "exit_time": "2022-01-15 14:05:20"
+  },
+  {
+    "id": 56219,
+    "trailer_id": 3229,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 19:00:54",
+    "exit_time": "2022-01-14 00:06:14"
+  },
+  {
+    "id": 56218,
+    "trailer_id": 14489,
+    "facility_id": 1,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-19 10:10:16"
+  },
+  {
+    "id": 56217,
+    "trailer_id": 14470,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 16:56:18",
+    "exit_time": "2022-01-14 03:04:49"
+  },
+  {
+    "id": 56216,
+    "trailer_id": 14477,
+    "facility_id": 1,
+    "entrance_time": "2022-01-13 16:16:49",
+    "exit_time": "2022-01-14 02:18:37"
+  },
+  {
+    "id": 56215,
+    "trailer_id": 14476,
+    "facility_id": 1,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-14 21:16:30"
+  },
+  {
+    "id": 56214,
+    "trailer_id": 14243,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 08:00:00",
+    "exit_time": "2022-01-14 20:08:03"
+  },
+  {
+    "id": 56213,
+    "trailer_id": 13920,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 01:49:06",
+    "exit_time": "2022-01-14 19:06:52"
+  },
+  {
+    "id": 56212,
+    "trailer_id": 14470,
+    "facility_id": 846,
+    "entrance_time": "2022-01-13 01:43:04",
+    "exit_time": "2022-01-13 15:06:22"
+  },
+  {
+    "id": 56211,
+    "trailer_id": 14470,
+    "facility_id": 846,
+    "entrance_time": "2022-01-12 08:00:00",
+    "exit_time": "2022-01-13 20:06:33"
+  },
+  {
+    "id": 56210,
+    "trailer_id": 13920,
+    "facility_id": 846,
+    "entrance_time": "2022-01-12 08:00:00",
+    "exit_time": "2022-01-14 20:06:34"
+  },
+  {
+    "id": 56209,
+    "trailer_id": 14465,
+    "facility_id": 1,
+    "entrance_time": "2022-01-12 14:12:39",
+    "exit_time": "2022-01-13 15:10:20"
+  },
+  {
+    "id": 56208,
+    "trailer_id": 14477,
+    "facility_id": 1,
+    "entrance_time": "2022-01-12 08:00:00",
+    "exit_time": "2022-01-13 16:16:48"
+  },
+  {
+    "id": 56207,
+    "trailer_id": 14476,
+    "facility_id": 1,
+    "entrance_time": "2022-01-12 14:12:39",
+    "exit_time": "2022-01-12 16:16:48"
+  },
+  {
+    "id": 56206,
+    "trailer_id": 14360,
+    "facility_id": 1,
+    "entrance_time": "2022-01-12 14:12:39",
+    "exit_time": "2022-01-18 10:10:17"
+  },
+  {
+    "id": 56205,
+    "trailer_id": 14346,
+    "facility_id": 1,
+    "entrance_time": "2022-01-12 14:12:39",
+    "exit_time": "2022-01-13 15:10:20"
+  },
+  {
+    "id": 56204,
+    "trailer_id": 14475,
+    "facility_id": 1,
+    "entrance_time": "2022-01-12 08:00:00",
+    "exit_time": "2022-01-13 21:14:26"
+  },
+  {
+    "id": 56203,
+    "trailer_id": 14103,
+    "facility_id": 846,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-14 14:08:04"
+  },
+  {
+    "id": 56202,
+    "trailer_id": 14423,
+    "facility_id": 846,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-12 14:08:05"
+  },
+  {
+    "id": 56201,
+    "trailer_id": 14473,
+    "facility_id": 846,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-18 08:06:35"
+  },
+  {
+    "id": 56200,
+    "trailer_id": 14473,
+    "facility_id": 846,
+    "entrance_time": "2022-01-11 23:18:59",
+    "exit_time": "2022-01-18 06:05:02"
+  },
+  {
+    "id": 56199,
+    "trailer_id": 14468,
+    "facility_id": 1,
+    "entrance_time": "2022-01-10 08:00:00",
+    "exit_time": "2022-01-13 20:14:37"
+  },
+  {
+    "id": 56198,
+    "trailer_id": 13861,
+    "facility_id": 846,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-12 20:08:04"
+  },
+  {
+    "id": 56197,
+    "trailer_id": 14465,
+    "facility_id": 1,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-12 14:12:38"
+  },
+  {
+    "id": 56196,
+    "trailer_id": 14464,
+    "facility_id": 1,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-13 19:10:20"
+  },
+  {
+    "id": 56195,
+    "trailer_id": 14463,
+    "facility_id": 1,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-28 19:07:04"
+  },
+  {
+    "id": 56194,
+    "trailer_id": 14360,
+    "facility_id": 1,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-12 14:12:38"
+  },
+  {
+    "id": 56193,
+    "trailer_id": 13858,
+    "facility_id": 1,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-14 00:10:20"
+  },
+  {
+    "id": 56192,
+    "trailer_id": 14462,
+    "facility_id": 1,
+    "entrance_time": "2022-01-11 08:00:00",
+    "exit_time": "2022-01-12 14:12:38"
+  },
+  {
+    "id": 56191,
+    "trailer_id": 14458,
+    "facility_id": 846,
+    "entrance_time": "2022-01-10 08:00:00",
+    "exit_time": "2022-01-11 20:08:04"
+  },
+  {
+    "id": 56190,
+    "trailer_id": 14449,
+    "facility_id": 846,
+    "entrance_time": "2022-01-10 08:00:00",
+    "exit_time": "2022-01-12 08:08:05"
+  },
+  {
+    "id": 56189,
+    "trailer_id": 14457,
+    "facility_id": 846,
+    "entrance_time": "2022-01-10 08:00:00",
+    "exit_time": "2022-01-14 02:06:34"
+  },
+  {
+    "id": 56188,
+    "trailer_id": 3615,
+    "facility_id": 846,
+    "entrance_time": "2022-01-11 00:45:15",
+    "exit_time": "2022-01-11 08:05:05"
+  },
+  {
+    "id": 56187,
+    "trailer_id": 14457,
+    "facility_id": 846,
+    "entrance_time": "2022-01-11 00:25:57",
+    "exit_time": "2022-01-13 18:05:30"
+  },
+  {
+    "id": 56186,
+    "trailer_id": 14456,
+    "facility_id": 1,
+    "entrance_time": "2022-01-10 08:00:00",
+    "exit_time": "2022-01-18 11:10:17"
+  },
+  {
+    "id": 56185,
+    "trailer_id": 12120,
+    "facility_id": 846,
+    "entrance_time": "2022-01-10 18:04:36",
+    "exit_time": "2022-01-11 01:04:57"
+  },
+  {
+    "id": 56184,
+    "trailer_id": 14441,
+    "facility_id": 846,
+    "entrance_time": "2022-01-08 08:00:00",
+    "exit_time": "2022-03-23 01:08:01"
+  },
+  {
+    "id": 56183,
+    "trailer_id": 12149,
+    "facility_id": 1,
+    "entrance_time": "2022-01-08 08:00:00",
+    "exit_time": "2022-01-10 01:07:11"
+  },
+  {
+    "id": 56182,
+    "trailer_id": 14435,
+    "facility_id": 1,
+    "entrance_time": "2022-01-07 16:20:02",
+    "exit_time": "2022-01-12 14:12:38"
+  },
+  {
+    "id": 56181,
+    "trailer_id": 3229,
+    "facility_id": 846,
+    "entrance_time": "2022-01-08 08:00:00",
+    "exit_time": "2022-01-14 02:06:34"
+  },
+  {
+    "id": 56180,
+    "trailer_id": 3229,
+    "facility_id": 846,
+    "entrance_time": "2022-01-08 10:09:24",
+    "exit_time": "2022-01-11 22:06:22"
+  },
+  {
+    "id": 56179,
+    "trailer_id": 14437,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 23:47:57",
+    "exit_time": "2022-01-08 09:05:24"
+  },
+  {
+    "id": 56178,
+    "trailer_id": 7037,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 19:53:14",
+    "exit_time": "2022-01-08 04:08:46"
+  },
+  {
+    "id": 56177,
+    "trailer_id": 14412,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 18:27:01",
+    "exit_time": "2022-01-08 11:04:58"
+  },
+  {
+    "id": 56176,
+    "trailer_id": 14439,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 17:58:28",
+    "exit_time": "2022-01-10 16:07:10"
+  },
+  {
+    "id": 56175,
+    "trailer_id": 13420,
+    "facility_id": 846,
+    "entrance_time": "2022-01-06 19:22:31",
+    "exit_time": "2022-01-14 15:06:44"
+  },
+  {
+    "id": 56174,
+    "trailer_id": 14423,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 08:00:00",
+    "exit_time": "2022-01-10 14:08:05"
+  },
+  {
+    "id": 56173,
+    "trailer_id": 14439,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 08:00:00",
+    "exit_time": "2022-01-10 20:06:35"
+  },
+  {
+    "id": 56172,
+    "trailer_id": 14412,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 08:00:00",
+    "exit_time": "2022-01-08 14:06:33"
+  },
+  {
+    "id": 56171,
+    "trailer_id": 7037,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 08:00:00",
+    "exit_time": "2022-03-11 20:06:32"
+  },
+  {
+    "id": 56170,
+    "trailer_id": 14437,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 08:00:00",
+    "exit_time": "2022-01-08 14:06:33"
+  },
+  {
+    "id": 56169,
+    "trailer_id": 14419,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 08:00:00",
+    "exit_time": "2022-01-13 14:08:04"
+  },
+  {
+    "id": 56168,
+    "trailer_id": 14412,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 08:00:00",
+    "exit_time": "2022-01-07 20:06:33"
+  },
+  {
+    "id": 56167,
+    "trailer_id": 13691,
+    "facility_id": 846,
+    "entrance_time": "2022-01-07 08:00:00",
+    "exit_time": "2022-01-07 20:06:33"
+  },
+  {
+    "id": 56166,
+    "trailer_id": 14329,
+    "facility_id": 846,
+    "entrance_time": "2022-01-06 20:08:06",
+    "exit_time": "2022-03-11 20:08:03"
+  },
+  {
+    "id": 56165,
+    "trailer_id": 13420,
+    "facility_id": 846,
+    "entrance_time": "2022-01-06 08:00:00",
+    "exit_time": "2022-01-14 20:06:34"
+  }
+]

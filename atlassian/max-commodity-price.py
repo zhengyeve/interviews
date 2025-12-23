@@ -161,8 +161,4 @@ r.upsertCommodityPrice(5, 28)
 print(r.getMaxCommodityPrice())        # (5, 28)
 r.deleteCommodityPrice(5)
 r.deleteCommodityPrice(9)
-print(r.getMaxCommodityPrice())        # No avalues
-
-
-
-
+print(r.getMaxCommodityPrice())        # No values
